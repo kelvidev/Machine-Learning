@@ -4,53 +4,76 @@ class Normalizer:
 
     def __init__(self, dataset=None) -> None:
         self.dataset = dataset
+        self.dataframe = None
+        self.encoder = OneHotEncoder(sparse_output=False)
+        self.scaler = MinMaxScaler()
+        self.categorical_cols = None
+        self.numeric_cols = None
 
-    def findCategoricalData(self, dataset: pd.DataFrame, maxVariation: int = 5):
-        '''
-        the intention is to request an AI API to know if the found categorical data makes sense
-        '''
+    def findCategoricalData(self, df: pd.DataFrame, maxVariation: int = 5) ->list[str]:
+
         categoricalData = []
-        for column in dataset.columns:
-            unique_count = dataset[column].nunique()
+        for column in df.columns:
+            unique_count = df[column].nunique()
             if unique_count <= maxVariation:
                 categoricalData.append(column)  
-                print(f"{column}: {unique_count} unique values", end="")
-                print(f"  → {dataset[column].unique().tolist()}", )
-        print("No more Categorical Data")
         return categoricalData
     
-    def findTextualData(self,  dataframe: pd.DataFrame):
-        nonNumericDAta = []
-        for column in dataframe.columns:
-            if not pd.api.types.is_numeric_dtype(dataframe[column]):
-                nonNumericDAta.append(column)
-        return nonNumericDAta
-                
-        
-    def normalize(self, dataset=None):
+    def findTextualData(self,  df: pd.DataFrame) -> list[str]:
+        nonNumericData = []
+        for column in df.columns:
+            if not pd.api.types.is_numeric_dtype(df[column]):
+                nonNumericData.append(column)
+        return nonNumericData
+                 
+    def normalize(self, dataset=None) -> pd.DataFrame:
         if(dataset is None):
             dataset = self.dataset
-        dataframe = pd.read_csv(dataset, sep=';', decimal=',')
+        else:
+            self.dataset = dataset
+        
+        df = pd.read_csv(dataset, sep=';', decimal=',')
+        self.dataframe = df
 
-        listOfCategorical = self.findTextualData(dataframe)
+        categorical_cols = self.findCategoricalData(df)
+        textual_cols = self.findTextualData(df)
+        numeric_cols = [col for col in df.columns if col not in categorical_cols and col not in textual_cols]
+        for item in categorical_cols:
+            if item  in textual_cols:
+                textual_cols.remove(item)
+    
+        categorical_nd_array = self.encoder.fit_transform(df[categorical_cols])
+        categorical_df = pd.DataFrame(
+            categorical_nd_array, 
+            columns= self.encoder.get_feature_names_out(categorical_cols),
+            index= df.index
+        )
+        self.categorical_cols = [col for col in categorical_df.columns]
         
-        categorical = dataframe[listOfCategorical]
-        nonCategorical = dataframe.drop(columns=listOfCategorical)
-        # try:
-        #     noCategorical = noCategorical.drop(columns= self.findTextualData(dataframe))
-        # except KeyError as e:
-        #     print("Column was already deleted", e)
-        print(nonCategorical)
-        print(categorical)
+        numeric_nd_array = self.scaler.fit_transform(df[numeric_cols])
+        numeric_df = pd.DataFrame(
+            numeric_nd_array,
+            columns= numeric_cols,
+            index=df.index,
+        )
+        self.numeric_cols = [col for col in numeric_df.columns]
         
-        encoder = OneHotEncoder()
+        complete_df = pd.concat([categorical_df, numeric_df, df[textual_cols]], axis=1)
         
-        scaler = MinMaxScaler()
-        categorical = encoder.fit_transform(categorical)
-        
-        nonCategorical = scaler.fit_transform(nonCategorical)
-        
-        print(categorical)
-        print(nonCategorical)
+        self.dataframe = complete_df
+        return complete_df
                 
+    def denormalizeAll(self) -> pd.DataFrame :
+
+        decoded_categorical_nd_array = self.encoder.inverse_transform(self.dataframe[self.categorical_cols])
+        decoded_categorical_df = pd.DataFrame(decoded_categorical_nd_array, columns= self.encoder.feature_names_in_)
+
+        decoded_numeric_nd_array = self.scaler.inverse_transform(self.dataframe[ self.numeric_cols])
         
+        decoded_numeric_df = pd.DataFrame(decoded_numeric_nd_array, columns= self.scaler.feature_names_in_)
+        
+        textual_cols = self.findTextualData(self.dataframe)
+        
+        self.dataframe = pd.concat([decoded_categorical_df, decoded_numeric_df, self.dataframe[textual_cols]], axis=1) 
+        
+        return self.dataframe
