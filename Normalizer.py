@@ -26,7 +26,7 @@ class Normalizer:
                 nonNumericData.append(column)
         return nonNumericData
                  
-    def normalize(self, dataset=None) -> pd.DataFrame:
+    def normalizeAll(self, dataset=None) -> pd.DataFrame:
         if(dataset is None):
             dataset = self.dataset
         else:
@@ -77,3 +77,12 @@ class Normalizer:
         self.dataframe = pd.concat([decoded_categorical_df, decoded_numeric_df, self.dataframe[textual_cols]], axis=1) 
         
         return self.dataframe
+    
+    def normalizeNominal(self, instance: pd.DataFrame) :
+        
+        try:
+            return self.encoder.transform(instance)
+        except ValueError as error:
+            print(error)
+            return "that value does not exist in the encoder"
+            

@@ -1,12 +1,20 @@
 from Normalizer import Normalizer 
-
+import pandas as pd
 def main():
     normalizer = Normalizer()
-    normalizer.normalize("data/haboski.csv")
+    normalizer.normalizeAll("data/dados_normalizar.csv")
+    
     print(normalizer.denormalizeAll())    
+    print(normalizer.normalizeAll())
     
-    print(normalizer.normalize())
+    new_instance = pd.DataFrame({"sexo":["M"]})
+    new_instance2 = pd.DataFrame({"sexo":["F"]})
+    triyng_to_break = pd.DataFrame({"sexo":["Macaco"]})
     
+    print(normalizer.normalizeNominal(new_instance))
+    print(normalizer.normalizeNominal(new_instance2))
+    print(normalizer.normalizeNominal(triyng_to_break))
+
 if __name__ == "__main__":
     main()
 
