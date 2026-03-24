@@ -1,8 +1,5 @@
 from Normalizer import Normalizer 
 import pandas as pd
-from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
-from clustering import clustering
-import pickle as pk
 
 def testNormalizer():
     normalizer = Normalizer()
