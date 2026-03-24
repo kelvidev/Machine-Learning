@@ -2,20 +2,23 @@ import pandas as pd
 from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
 class Normalizer:
 
-    def __init__(self, dataset=None) -> None:
+    def __init__(self, dataset=None, separator = ";", decimal = ".") -> None:
         self.dataset = dataset
         self.dataframe = None
         self.encoder = OneHotEncoder(sparse_output=False)
         self.scaler = MinMaxScaler()
         self.categorical_cols = None
         self.numeric_cols = None
+        self.separator = separator
+        self.decimal = decimal
+        
 
     def findCategoricalData(self, df: pd.DataFrame, maxVariation: int = 5) ->list[str]:
 
         categoricalData = []
         for column in df.columns:
             unique_count = df[column].nunique()
-            if unique_count <= maxVariation:
+            if unique_count <= maxVariation and not pd.api.types.is_numeric_dtype(df[column]) :
                 categoricalData.append(column)  
         return categoricalData
     
@@ -32,7 +35,7 @@ class Normalizer:
         else:
             self.dataset = dataset
         
-        df = pd.read_csv(dataset, sep=';', decimal=',')
+        df = pd.read_csv(dataset, sep=self.separator, decimal=self.decimal)
         self.dataframe = df
 
         categorical_cols = self.findCategoricalData(df)

@@ -1,6 +1,10 @@
 from Normalizer import Normalizer 
 import pandas as pd
-def main():
+from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
+from clustering import clustering
+import pickle as pk
+
+def testNormalizer():
     normalizer = Normalizer()
     normalizer.normalizeAll("data/dados_normalizar.csv")
     
@@ -14,7 +18,11 @@ def main():
     print(normalizer.normalizeNominal(new_instance))
     print(normalizer.normalizeNominal(new_instance2))
     print(normalizer.normalizeNominal(triyng_to_break))
-
+    
+def main():
+    testNormalizer()
+    
+    
 if __name__ == "__main__":
     main()
 
