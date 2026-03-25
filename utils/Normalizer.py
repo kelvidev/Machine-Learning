@@ -9,6 +9,7 @@ class Normalizer:
         self.scaler = MinMaxScaler()
         self.categorical_cols = None
         self.numeric_cols = None
+        self.textual_cols = None
         self.separator = separator
         self.decimal = decimal
         
@@ -44,7 +45,7 @@ class Normalizer:
         for item in categorical_cols:
             if item  in textual_cols:
                 textual_cols.remove(item)
-    
+        self.textual_cols = textual_cols
         categorical_nd_array = self.encoder.fit_transform(df[categorical_cols])
         categorical_df = pd.DataFrame(
             categorical_nd_array, 
@@ -67,17 +68,23 @@ class Normalizer:
         return complete_df
                 
     def denormalizeAll(self) -> pd.DataFrame :
-
-        decoded_categorical_nd_array = self.encoder.inverse_transform(self.dataframe[self.categorical_cols])
-        decoded_categorical_df = pd.DataFrame(decoded_categorical_nd_array, columns= self.encoder.feature_names_in_)
-
-        decoded_numeric_nd_array = self.scaler.inverse_transform(self.dataframe[ self.numeric_cols])
         
-        decoded_numeric_df = pd.DataFrame(decoded_numeric_nd_array, columns= self.scaler.feature_names_in_)
+        dataframe_parts = []
         
-        textual_cols = self.findTextualData(self.dataframe)
+        if(self.categorical_cols):
+            decoded_categorical_nd_array = self.encoder.inverse_transform(self.dataframe[self.categorical_cols])
+            decoded_categorical_df = pd.DataFrame(decoded_categorical_nd_array, columns= self.encoder.feature_names_in_)
+            dataframe_parts.append(decoded_categorical_df)
+                    
+        if(self.numeric_cols):
+            decoded_numeric_nd_array = self.scaler.inverse_transform(self.dataframe[ self.numeric_cols])    
+            decoded_numeric_df = pd.DataFrame(decoded_numeric_nd_array, columns= self.scaler.feature_names_in_)
+            dataframe_parts.append(decoded_numeric_df)
         
-        self.dataframe = pd.concat([decoded_categorical_df, decoded_numeric_df, self.dataframe[textual_cols]], axis=1) 
+        if(self.textual_cols):
+            dataframe_parts.append(self.dataframe[self.textual_cols])
+        
+        self.dataframe = pd.concat(dataframe_parts, axis=1) 
         
         return self.dataframe
     

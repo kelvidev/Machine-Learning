@@ -1,4 +1,4 @@
-from Normalizer import Normalizer 
+from utils.Normalizer import Normalizer 
 import pandas as pd
 
 def testNormalizer():
