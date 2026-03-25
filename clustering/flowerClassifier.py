@@ -1,8 +1,8 @@
 from sklearn.cluster import KMeans
-from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
-from Normalizer import Normalizer
+from utils.Normalizer import Normalizer
 from matplotlib import pyplot as plt
 from kneed import KneeLocator
+
 """Cauculates the Optimal Number of Clusters (k) """
 def elbow_detection(inertias) -> int:
     
@@ -18,7 +18,8 @@ def elbow_detection(inertias) -> int:
     
     return clusters
 
-def clustering():
+
+def main():
     print("--------------------------------------------------------------")
     
     normalizer = Normalizer()
@@ -41,8 +42,6 @@ def clustering():
     dataframe['cluster'] = model.labels_
     print(dataframe.groupby(['cluster', 'class']).mean(numeric_only=True).round(2))
     
-def main():
-    clustering()
     
     
 if __name__ == "__main__":
