@@ -1,6 +1,6 @@
 from utils.Normalizer import Normalizer 
 import pandas as pd
-
+from clustering.Clusterer import Clusterer
 def testNormalizer():
     normalizer = Normalizer()
     normalizer.normalizeAll("data/dados_normalizar.csv")
@@ -16,8 +16,13 @@ def testNormalizer():
     print(normalizer.normalizeNominal(new_instance2))
     print(normalizer.normalizeNominal(triyng_to_break))
     
+def testClustering():
+    clusterer = Clusterer(separator=',')
+    clusterer.findClusters("data/Players_avg_statistics.csv")
+
 def main():
     testNormalizer()
+    testClustering()
     
     
 if __name__ == "__main__":

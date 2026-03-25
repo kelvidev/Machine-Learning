@@ -95,4 +95,5 @@ class Normalizer:
         except ValueError as error:
             print(error)
             return "that value does not exist in the encoder"
-            
+    def getTrainableDataFrame(self)-> pd.DataFrame:
+        return self.dataframe[self.categorical_cols + self.numeric_cols]
