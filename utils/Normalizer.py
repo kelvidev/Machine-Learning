@@ -1,5 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
+import numpy as np
+
 class Normalizer:
 
     def __init__(self, dataset=None, separator = ";", decimal = ".") -> None:
@@ -67,33 +69,55 @@ class Normalizer:
         self.dataframe = complete_df
         return complete_df
                 
-    def denormalizeAll(self) -> pd.DataFrame :
-        
+    def denormalizeAll(self, instance:pd.DataFrame=None) -> pd.DataFrame :
+        if(instance is None):
+            dataframe = self.dataframe.copy()
+        else:
+            dataframe = instance
+            
         dataframe_parts = []
         
         if(self.categorical_cols):
-            decoded_categorical_nd_array = self.encoder.inverse_transform(self.dataframe[self.categorical_cols])
+            decoded_categorical_nd_array = self.encoder.inverse_transform(dataframe[self.categorical_cols])
             decoded_categorical_df = pd.DataFrame(decoded_categorical_nd_array, columns= self.encoder.feature_names_in_)
             dataframe_parts.append(decoded_categorical_df)
                     
         if(self.numeric_cols):
-            decoded_numeric_nd_array = self.scaler.inverse_transform(self.dataframe[ self.numeric_cols])    
+            decoded_numeric_nd_array = self.scaler.inverse_transform(dataframe[ self.numeric_cols])    
             decoded_numeric_df = pd.DataFrame(decoded_numeric_nd_array, columns= self.scaler.feature_names_in_)
             dataframe_parts.append(decoded_numeric_df)
         
         if(self.textual_cols):
-            dataframe_parts.append(self.dataframe[self.textual_cols])
+            dataframe_parts.append(dataframe[self.textual_cols])
         
-        self.dataframe = pd.concat(dataframe_parts, axis=1) 
+        dataframe = pd.concat(dataframe_parts, axis=1) 
+        if(instance==None):
+            self.dataframe = dataframe
         
-        return self.dataframe
+        return dataframe
     
-    def normalizeNominal(self, instance: pd.DataFrame) :
+    def normalizeInstance(self, instance: pd.DataFrame) -> pd.DataFrame:
         
         try:
-            return self.encoder.transform(instance)
-        except ValueError as error:
+            categorical_cols = [item for item in self.findTextualData(instance) if item not in self.textual_cols] 
+            categorical_nd_array = self.encoder.transform(instance[categorical_cols])
+            categorical_df = pd.DataFrame(
+                categorical_nd_array, 
+                columns=self.categorical_cols,
+                index= instance.index
+            )
+            
+            numeric_nd_array = self.scaler.transform(instance[self.numeric_cols])
+            numeric_df = pd.DataFrame(
+                numeric_nd_array,
+                columns= self.numeric_cols,
+                index=instance.index,
+            )
+            complete_df = pd.concat([categorical_df, numeric_df, instance[self.textual_cols]], axis=1)
+            return complete_df
+        except Exception as error:
             print(error)
-            return "that value does not exist in the encoder"
+            return "that value could not be normalized"
+        
     def getTrainableDataFrame(self)-> pd.DataFrame:
         return self.dataframe[self.categorical_cols + self.numeric_cols]

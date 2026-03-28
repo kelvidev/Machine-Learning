@@ -1,24 +1,41 @@
 from utils.Normalizer import Normalizer 
 import pandas as pd
-from clustering.Clusterer import Clusterer
+from modules.clustering.Clusterer import Clusterer
+from models.FootballPlayer import FootballPlayer 
+
+from models.IrisFlower import IrisFlower
 def testNormalizer():
     normalizer = Normalizer()
     normalizer.normalizeAll("data/dados_normalizar.csv")
     
     print(normalizer.denormalizeAll())    
     print(normalizer.normalizeAll())
-    
-    new_instance = pd.DataFrame({"sexo":["M"]})
-    new_instance2 = pd.DataFrame({"sexo":["F"]})
-    triyng_to_break = pd.DataFrame({"sexo":["Macaco"]})
-    
-    print(normalizer.normalizeNominal(new_instance))
-    print(normalizer.normalizeNominal(new_instance2))
-    print(normalizer.normalizeNominal(triyng_to_break))
+
     
 def testClustering():
-    clusterer = Clusterer(separator=',')
-    clusterer.findClusters("data/Players_avg_statistics.csv")
+    iris_clusterer = Clusterer()
+    iris_clusterer.findClusters("data/iris.csv")
+    flower = IrisFlower.from_json(
+        {
+            "sepal_length": 4.8,
+            "sepal_width": 3.0,
+            "petal_length": 1.7,
+            "petal_width":0.2,
+            "class": "Iris-setosa",
+        }
+    )
+    print(iris_clusterer.classifyInstance(flower.to_dataframe()))
+
+    player_clusterer = Clusterer(separator=',')
+    player_clusterer.findClusters("data/Players_avg_statistics.csv")
+
+    player = FootballPlayer.from_json({
+        "player": "caça rato",
+        "shots_on_goal": 2.35,
+        "disarms": 1.4,
+    })
+    print(player_clusterer.classifyInstance(player.to_dataframe()))
+    
 
 def main():
     testNormalizer()
