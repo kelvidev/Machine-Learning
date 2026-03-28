@@ -26,7 +26,7 @@ class Clusterer:
         plt.ylabel("Inertia")
         plt.scatter(cluster, inertias[cluster], color='red', s=100, zorder=5, )
         plt.savefig(f"modules/clustering/elbow/{self.name}-elbow.png")
-        
+        plt.close()
         return cluster
 
 
