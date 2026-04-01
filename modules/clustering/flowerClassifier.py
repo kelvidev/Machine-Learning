@@ -14,7 +14,7 @@ def elbow_detection(inertias) -> int:
     plt.xlabel("K(number of Clusters)")
     plt.ylabel("Inertia")
     plt.scatter(clusters, inertias[clusters], color='red', s=100, zorder=5, )
-    plt.savefig("clustering/elbow/iris-elbow.png")
+    plt.savefig("modules/clustering/elbow/iris-elbow.png")
     
     return clusters
 
