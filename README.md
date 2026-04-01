@@ -9,11 +9,21 @@ A personal collection of Python scripts built while learning Machine Learning co
 Machine-Learning/
 │
 ├── data/                        # Datasets used in experiments
-├── utils/                       # Utility/helper functions
+├── models/                      # Trained model files
 │
-├── categoricalDataEncoding.py   # Encoding techniques (Label, OneHot, Ordinal...)
-├── handleNullData.py            # Handling missing values (imputation, removal...)
-└── ...                          # More scripts coming soon!
+├── modules/                     # Modular ML components
+│   ├── clustering/              # Clustering algorithms
+│   ├── dataPreprocessing/       # Preprocessing pipelines
+│   └── regression/              # Regression models
+│
+├── utils/                       # Utility/helper functions
+│   ├── __init__.py
+│   └── Normalizer.py
+│
+├── app.py
+├── main.py
+├── requirements.txt
+└── README.md
 ```
 
 ---
@@ -23,12 +33,12 @@ Machine-Learning/
 ### ✅ Data Preprocessing
 - Handling null/missing values
 - Categorical data encoding
-
-### 🔜 Coming Soon
-- Feature engineering
 - Supervised learning (Regression, Classification)
 - Unsupervised learning (Clustering, PCA)
 - Model evaluation & metrics
+
+### 🔜 Coming Soon
+- Feature engineering
 - Deep learning basics
 - And much more...
 
