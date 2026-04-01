@@ -24,6 +24,14 @@ regressor.fit(X=X_train, y=y_train)
 
 new_prediction = regressor.predict([[5.5]])
 
+bias  = regressor.intercept_
+
+coeficient = regressor.coef_
+
+print(f"the bias was {bias} and the coeficient was {coeficient}")
+
+
+
 y_prediction = regressor.predict(X_test)
 
 print(f"The accuracy was {(r2_score(y_pred= y_prediction, y_true=y_test) * 100):.2f}%" )
