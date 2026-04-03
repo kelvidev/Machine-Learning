@@ -7,13 +7,6 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 def main():
 
-
-    # poly = PolynomialFeatures(degree=4)
-    # level_poly = poly.fit_transform(df['Level'].to_numpy().reshape(-1,1))
-    # model = LinearRegression()
-    # model.fit(level_poly, df['Salary'].to_numpy().reshape(-1,1))
-    # salarys = model.predict(poly.transform(df['Level'].to_numpy().reshape(-1,1)))
-
     df = pd.read_csv('data/Position_Salaries.csv')
     
     feature_scaler = MinMaxScaler()
@@ -32,6 +25,7 @@ def main():
     print(y_predicted)
     plt.plot(X, y_predicted, )
     plt.scatter(X, target_scaler.inverse_transform([df['Salary']]).reshape(-1))
+    plt.ticklabel_format(style='plain', axis='y')
     plt.show()
     
 if __name__ == '__main__':
