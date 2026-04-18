@@ -64,10 +64,22 @@ class Clusterer:
             "\n",
         )
         
-        print(dataframe)
+        print(self.dataframe)
         
     def classifyInstance(self, instance:pd.DataFrame)->int:
+
         instance =  self.normalizer.normalizeInstance(instance)
-        features= instance[self.normalizer.categorical_cols + self.normalizer.numeric_cols]
-        return self.model.predict(features)
+        features= instance[self.normalizer.categorical_cols_normalized + self.normalizer.numeric_cols]
+        cluster_group = self.model.predict(features)[0]
+
+        cluster_info = f"""the cluster group of this item, have average numerical values around: 
+        {[self.dataframe.groupby('cluster').mean(numeric_only=True).round(2).loc[cluster_group]]}\n 
         
+        """ if len(self.normalizer.numeric_cols) > 0 else ""
+    
+        if(len(self.normalizer.categorical_cols_nonnormalized) >0):
+            cluster_info += f"""
+            The most common categorys for this item's cluster are:
+            {[self.dataframe[self.dataframe['cluster'] == cluster_group][self.normalizer.categorical_cols_nonnormalized].mode().iloc[0]]}
+            """
+        return f'the cluster group is {cluster_group}, which have the following informations\n{cluster_info}'

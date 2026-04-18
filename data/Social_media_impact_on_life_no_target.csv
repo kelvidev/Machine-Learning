@@ -1,0 +1,1706 @@
+Student_ID,Age,Gender,Academic_Level,Country,Avg_Daily_Usage_Hours,Most_Used_Platform,Affects_Academic_Performance,Sleep_Hours_Per_Night,Mental_Health_Score
+232,21,Male,Undergraduate,Other,4.0,Facebook,No,6.7,6.8
+564,23,Female,Undergraduate,Other,1.6,LinkedIn,No,8.6,7.6
+788,22,Male,Graduate,Canada,4.6,Instagram,No,6.7,7.0
+686,18,Male,Undergraduate,Other,7.0,Snapchat,Yes,5.4,5.3
+608,24,Female,High School,Other,7.5,Facebook,Yes,5.0,4.4
+370,19,Female,High School,Other,4.1,Twitter,Yes,6.8,6.8
+862,22,Female,Graduate,Other,8.0,Instagram,Yes,5.2,5.3
+520,21,Female,Graduate,Other,6.0,Facebook,Yes,5.7,4.7
+703,24,Male,Undergraduate,USA,4.7,YouTube,No,7.0,6.2
+33,19,Male,High School,Other,3.6,TikTok,No,8.1,8.6
+519,18,Male,Graduate,Other,4.1,LinkedIn,No,7.3,6.8
+738,18,Male,High School,Other,7.6,Snapchat,Yes,5.3,5.5
+119,20,Male,Undergraduate,Other,2.4,Facebook,No,8.8,8.5
+287,23,Female,Undergraduate,Other,6.2,LinkedIn,No,5.3,5.4
+610,24,Male,Graduate,India,2.7,Instagram,No,8.6,7.8
+383,18,Female,Graduate,Other,5.2,Twitter,Yes,7.0,6.3
+699,22,Female,Graduate,USA,6.5,YouTube,Yes,5.4,5.0
+302,21,Male,High School,Australia,6.8,YouTube,Yes,5.7,5.0
+277,21,Male,Graduate,Canada,6.9,Facebook,Yes,5.9,5.0
+631,20,Male,Undergraduate,Other,5.5,Instagram,No,6.8,6.8
+567,23,Female,High School,Other,2.0,Facebook,No,7.9,7.1
+110,19,Female,Undergraduate,Other,5.1,Snapchat,Yes,7.1,6.5
+261,24,Male,Undergraduate,Other,2.0,Facebook,Yes,7.8,8.5
+691,23,Male,Undergraduate,India,2.0,TikTok,No,7.2,8.6
+109,23,Female,Graduate,Other,7.1,LinkedIn,Yes,5.4,5.1
+537,21,Male,Undergraduate,Other,6.2,Instagram,Yes,4.7,5.7
+824,20,Female,Undergraduate,Other,2.8,LinkedIn,No,8.3,8.2
+270,21,Female,High School,Other,7.4,TikTok,Yes,4.6,4.7
+932,20,Female,Graduate,USA,5.6,TikTok,Yes,5.7,5.1
+2,23,Female,Undergraduate,USA,2.7,YouTube,No,7.8,7.7
+808,20,Male,High School,Australia,7.3,YouTube,No,6.0,5.7
+143,24,Male,Graduate,Other,2.3,Snapchat,No,8.2,8.1
+671,19,Male,High School,India,5.6,LinkedIn,No,6.9,6.6
+363,22,Female,Graduate,India,7.5,Facebook,Yes,5.2,4.0
+725,24,Male,High School,UK,5.9,TikTok,No,5.9,4.9
+120,18,Male,Undergraduate,UK,6.8,Instagram,Yes,5.5,4.2
+925,23,Male,High School,Other,6.7,Snapchat,Yes,5.5,5.0
+223,22,Male,Graduate,Other,4.5,Instagram,No,6.1,6.6
+305,22,Male,Graduate,USA,5.7,LinkedIn,Yes,6.8,6.3
+70,19,Female,Undergraduate,Other,2.3,Facebook,No,8.0,8.5
+890,24,Male,Undergraduate,Other,8.3,Twitter,Yes,5.5,4.3
+84,21,Female,Undergraduate,Other,6.5,Twitter,Yes,5.7,4.2
+246,22,Female,Graduate,Other,6.9,Twitter,Yes,5.3,4.5
+64,20,Male,Undergraduate,Other,8.1,TikTok,No,4.5,5.7
+851,20,Female,High School,Other,7.2,Instagram,No,4.8,4.2
+827,20,Male,Graduate,Other,4.1,Twitter,Yes,6.6,6.7
+104,18,Male,Graduate,Other,7.2,LinkedIn,Yes,4.5,5.9
+103,19,Female,High School,Other,5.2,Twitter,No,7.5,6.4
+577,20,Male,High School,UK,7.4,Instagram,Yes,5.2,5.0
+692,21,Male,High School,Germany,3.6,Instagram,No,7.1,8.5
+124,22,Female,High School,Other,8.0,YouTube,Yes,5.4,4.7
+78,19,Female,Undergraduate,Other,7.9,Twitter,No,5.0,4.9
+315,21,Female,Undergraduate,India,6.8,YouTube,Yes,5.3,4.6
+483,22,Male,High School,Australia,7.3,Twitter,Yes,5.5,4.7
+512,21,Male,Undergraduate,Other,3.4,LinkedIn,No,8.6,8.8
+147,21,Female,Graduate,UK,4.4,LinkedIn,Yes,6.4,6.6
+603,22,Male,Graduate,Other,5.9,Twitter,No,4.7,5.4
+102,23,Male,Graduate,UK,6.0,TikTok,No,4.8,5.5
+654,24,Female,High School,Other,3.0,TikTok,No,8.1,8.0
+614,19,Male,High School,Other,2.7,Instagram,No,8.5,7.6
+552,24,Male,Undergraduate,Other,1.7,Instagram,No,7.7,8.7
+441,22,Female,Graduate,Other,6.2,YouTube,Yes,5.3,5.5
+847,21,Male,Undergraduate,Other,1.8,TikTok,No,7.9,8.1
+23,24,Female,High School,Other,7.1,Twitter,Yes,5.2,4.8
+46,20,Female,High School,India,6.5,Snapchat,Yes,5.7,4.1
+620,22,Male,High School,Other,7.6,Snapchat,Yes,5.9,6.0
+845,19,Female,High School,Other,4.9,LinkedIn,No,6.8,6.6
+434,24,Female,High School,Other,8.2,Instagram,No,5.3,4.4
+933,21,Male,Undergraduate,Other,5.2,Snapchat,Yes,6.4,6.1
+7,19,Female,Graduate,Other,2.9,Instagram,No,7.9,7.7
+30,23,Female,High School,Other,4.4,YouTube,No,7.3,6.2
+395,20,Female,Undergraduate,Other,4.0,Snapchat,No,7.5,7.2
+425,23,Male,High School,Other,6.4,TikTok,Yes,5.2,4.6
+865,22,Male,Undergraduate,UK,8.2,Facebook,Yes,4.6,4.1
+776,22,Male,Undergraduate,Other,5.1,Twitter,No,6.5,6.9
+867,19,Male,Graduate,Other,2.5,YouTube,No,7.6,8.4
+295,22,Male,High School,Other,6.5,Facebook,No,5.8,5.5
+786,24,Female,Graduate,Australia,7.5,YouTube,Yes,4.7,5.3
+809,24,Male,Graduate,Other,3.2,LinkedIn,No,7.1,8.6
+156,23,Male,Undergraduate,Germany,7.3,Facebook,Yes,5.7,5.3
+778,18,Female,High School,USA,5.7,Instagram,No,5.1,4.9
+814,23,Female,Undergraduate,Other,4.7,Instagram,Yes,6.1,6.6
+100,22,Male,Graduate,Other,5.9,Twitter,No,6.0,7.0
+732,18,Male,High School,Other,7.4,YouTube,Yes,5.0,4.7
+43,18,Male,Undergraduate,India,8.4,TikTok,Yes,5.9,5.3
+708,19,Male,Undergraduate,India,8.1,Instagram,Yes,4.8,4.1
+337,22,Female,Undergraduate,Other,3.6,LinkedIn,No,8.6,8.6
+904,20,Male,High School,Canada,5.8,Twitter,Yes,5.6,5.5
+201,21,Female,Undergraduate,USA,8.0,Snapchat,Yes,5.8,5.1
+790,23,Male,High School,India,5.7,Snapchat,No,5.9,5.2
+335,18,Male,Undergraduate,Australia,8.0,TikTok,No,4.6,5.8
+230,23,Male,Undergraduate,UK,3.7,Instagram,No,8.4,7.2
+4,20,Male,Undergraduate,Other,3.4,Facebook,Yes,8.6,8.7
+161,23,Female,Graduate,Australia,3.3,Facebook,Yes,8.6,8.3
+73,18,Female,Undergraduate,Canada,3.1,Snapchat,No,7.8,7.5
+489,21,Male,Graduate,Other,8.2,LinkedIn,Yes,6.0,5.4
+679,20,Male,Graduate,USA,4.1,LinkedIn,No,7.2,6.8
+118,18,Female,High School,Other,3.5,TikTok,No,7.0,6.5
+130,21,Male,High School,Other,5.9,Facebook,No,6.0,6.7
+970,22,Male,High School,Germany,5.6,YouTube,Yes,5.6,5.7
+220,22,Male,Graduate,Canada,3.8,YouTube,No,7.5,7.9
+209,20,Male,Undergraduate,Other,3.8,Facebook,No,7.6,8.7
+188,21,Female,Graduate,Other,5.8,Facebook,Yes,5.8,4.9
+706,18,Male,Undergraduate,Other,3.7,Snapchat,Yes,7.5,7.0
+328,20,Female,High School,Other,2.9,LinkedIn,No,8.3,8.4
+662,21,Male,High School,India,4.5,LinkedIn,Yes,7.5,7.0
+400,21,Male,High School,Other,3.8,Snapchat,Yes,7.2,6.1
+931,20,Male,Undergraduate,Other,2.9,Twitter,No,8.2,7.6
+752,23,Male,Undergraduate,Other,5.0,Twitter,No,6.7,6.8
+542,21,Male,Undergraduate,Other,6.5,Instagram,Yes,5.6,4.3
+570,22,Female,High School,UK,3.6,Instagram,Yes,7.1,6.0
+369,18,Male,Graduate,Other,6.9,LinkedIn,Yes,5.9,4.9
+48,23,Female,Graduate,Other,2.3,TikTok,No,8.3,8.8
+444,19,Male,Undergraduate,Other,2.6,Snapchat,No,7.8,8.8
+352,22,Male,Graduate,Other,6.2,Instagram,Yes,4.8,5.9
+644,24,Female,Graduate,Australia,3.8,Instagram,No,7.3,6.5
+296,20,Female,Graduate,Other,7.5,Instagram,Yes,4.7,4.6
+866,20,Male,Graduate,India,3.8,Instagram,No,8.2,7.8
+183,21,Female,Undergraduate,Other,8.4,TikTok,No,5.3,5.9
+557,24,Female,Undergraduate,Other,5.9,Twitter,Yes,4.9,4.1
+971,22,Male,High School,Australia,6.0,YouTube,Yes,6.8,6.9
+458,23,Male,Undergraduate,Other,3.5,TikTok,Yes,8.5,7.3
+864,21,Male,Undergraduate,Other,3.1,LinkedIn,No,8.5,8.5
+504,19,Female,Undergraduate,Canada,4.5,Instagram,Yes,6.1,6.6
+987,21,Female,Graduate,Other,5.6,Instagram,Yes,5.4,5.1
+419,21,Female,Undergraduate,Other,3.6,Facebook,No,7.2,9.0
+869,18,Male,Undergraduate,UK,7.3,LinkedIn,No,5.3,4.0
+117,21,Female,High School,Other,8.3,YouTube,Yes,5.1,4.2
+800,20,Female,High School,India,5.1,LinkedIn,No,6.3,6.1
+6,24,Female,Undergraduate,India,3.4,YouTube,No,8.0,7.5
+558,22,Female,High School,Other,8.0,Instagram,Yes,4.9,4.0
+983,18,Male,High School,Other,3.7,LinkedIn,Yes,6.9,6.9
+79,18,Female,Graduate,Other,3.3,Instagram,No,8.3,8.5
+225,21,Male,High School,Other,5.3,Twitter,Yes,7.3,6.7
+3,23,Female,High School,USA,3.8,Instagram,No,7.4,7.1
+634,24,Male,High School,Other,3.7,Instagram,No,7.4,8.7
+712,22,Female,High School,Other,1.9,Twitter,No,9.0,8.6
+656,21,Female,Undergraduate,Germany,4.4,Facebook,Yes,6.5,6.5
+873,18,Female,Graduate,UK,4.0,LinkedIn,No,6.9,6.1
+975,20,Male,Undergraduate,Other,5.6,YouTube,Yes,5.3,5.4
+469,22,Female,High School,Other,3.2,YouTube,No,8.3,7.5
+421,21,Female,Undergraduate,UK,6.1,Snapchat,Yes,4.5,4.1
+325,18,Female,Graduate,Australia,5.3,TikTok,Yes,7.1,6.4
+76,18,Female,Undergraduate,Other,5.6,LinkedIn,Yes,5.9,5.2
+371,24,Male,Undergraduate,Other,6.3,TikTok,Yes,5.5,5.6
+617,23,Female,High School,Other,5.8,Snapchat,No,6.9,6.1
+101,23,Male,Undergraduate,Canada,2.8,Twitter,Yes,7.7,8.1
+831,18,Female,Undergraduate,Other,6.5,YouTube,No,5.6,4.3
+900,23,Female,Undergraduate,Australia,4.6,Snapchat,Yes,6.9,6.6
+828,18,Female,Undergraduate,USA,7.0,TikTok,No,4.9,5.4
+312,18,Male,Undergraduate,Other,1.8,Twitter,No,8.0,8.0
+583,18,Male,High School,Other,3.7,Instagram,No,6.3,6.5
+285,18,Male,Graduate,Other,7.9,TikTok,Yes,5.9,4.7
+267,22,Male,Undergraduate,India,4.6,Snapchat,Yes,6.6,6.9
+460,20,Female,Undergraduate,Other,8.2,Twitter,Yes,5.8,4.6
+248,21,Female,Undergraduate,Other,8.4,TikTok,No,5.9,5.0
+652,22,Female,Undergraduate,Other,3.7,TikTok,Yes,7.1,6.7
+385,23,Female,Graduate,Other,7.3,TikTok,Yes,5.5,5.7
+909,24,Female,Undergraduate,Other,2.9,Twitter,Yes,7.7,8.1
+422,18,Male,Undergraduate,Other,1.8,Twitter,No,8.9,8.6
+767,23,Female,Undergraduate,Other,6.3,Snapchat,Yes,5.7,5.9
+950,19,Male,Undergraduate,Other,3.4,YouTube,No,8.6,7.6
+16,24,Male,High School,Other,5.7,Facebook,Yes,6.8,6.6
+546,24,Female,Graduate,Other,3.8,Facebook,No,7.4,6.3
+199,21,Male,High School,Other,3.6,TikTok,No,7.4,7.8
+496,18,Female,Graduate,Other,6.5,Facebook,No,4.7,4.8
+364,24,Female,Undergraduate,Other,7.8,YouTube,Yes,5.4,5.6
+587,22,Male,Graduate,USA,3.7,TikTok,No,7.1,7.5
+838,18,Male,High School,Other,3.7,LinkedIn,Yes,6.7,6.2
+155,19,Male,Undergraduate,India,5.7,Facebook,Yes,7.2,6.2
+956,18,Female,Undergraduate,USA,3.3,Facebook,No,8.0,8.8
+632,21,Female,Undergraduate,Other,3.3,Facebook,No,8.2,8.6
+897,20,Male,Undergraduate,Other,1.8,Snapchat,No,8.5,7.5
+457,23,Female,Graduate,Canada,5.4,Snapchat,Yes,7.1,6.5
+358,20,Female,High School,Other,5.9,YouTube,Yes,4.9,5.1
+842,20,Male,High School,Australia,3.3,LinkedIn,No,8.8,7.9
+432,24,Male,Undergraduate,Other,7.2,Snapchat,Yes,4.7,5.4
+688,18,Male,Graduate,Other,1.6,Snapchat,No,8.1,8.6
+777,24,Female,High School,Other,3.4,YouTube,No,8.2,8.2
+982,22,Female,Undergraduate,Other,2.6,Twitter,No,7.5,8.5
+548,20,Female,Undergraduate,USA,5.1,Twitter,Yes,6.5,6.9
+15,23,Female,Undergraduate,Other,5.8,Instagram,No,6.2,6.2
+815,19,Male,Undergraduate,Australia,4.3,Instagram,Yes,6.7,6.3
+914,20,Female,Undergraduate,Other,2.5,TikTok,Yes,7.7,8.5
+375,22,Female,Graduate,Other,5.8,YouTube,Yes,6.0,4.7
+859,20,Male,High School,Other,2.5,LinkedIn,No,7.4,8.2
+834,19,Female,Graduate,Australia,6.4,TikTok,Yes,5.5,4.4
+965,20,Male,Undergraduate,Other,7.8,Twitter,Yes,5.2,5.2
+678,20,Male,Graduate,USA,6.5,Twitter,Yes,4.5,4.2
+791,22,Female,Graduate,India,3.0,YouTube,Yes,8.9,7.1
+377,24,Female,Undergraduate,Other,1.5,Facebook,Yes,7.2,7.6
+368,19,Female,Undergraduate,Other,8.1,TikTok,Yes,5.6,5.5
+193,21,Female,High School,Other,2.6,Snapchat,Yes,7.4,7.4
+782,18,Male,High School,Other,2.7,Snapchat,No,8.5,7.6
+442,23,Female,Undergraduate,Other,2.4,Snapchat,Yes,7.6,7.6
+722,23,Female,High School,Other,6.6,TikTok,Yes,6.0,5.0
+674,22,Male,Undergraduate,USA,3.8,YouTube,No,7.9,7.3
+174,21,Female,Graduate,USA,5.8,LinkedIn,No,7.0,6.4
+374,20,Male,Undergraduate,Other,8.2,LinkedIn,Yes,6.0,5.7
+348,22,Male,High School,Other,4.5,Facebook,Yes,6.0,6.3
+730,18,Female,Graduate,Other,5.6,Twitter,Yes,4.8,5.9
+281,20,Male,High School,Other,3.5,TikTok,No,7.9,7.8
+957,23,Female,Graduate,Other,2.9,YouTube,Yes,7.3,8.5
+819,19,Male,Undergraduate,USA,6.6,TikTok,Yes,5.9,5.0
+27,24,Male,Undergraduate,India,8.0,Twitter,Yes,5.1,5.3
+639,18,Male,Undergraduate,Other,7.3,LinkedIn,Yes,5.1,4.1
+826,19,Female,High School,Other,2.5,Twitter,No,7.3,8.3
+723,19,Male,Graduate,Canada,2.6,TikTok,No,8.4,8.2
+206,24,Male,Graduate,India,2.3,Twitter,No,8.3,8.9
+28,21,Male,Undergraduate,Other,5.3,Twitter,Yes,7.3,6.1
+728,19,Female,High School,Other,7.7,Snapchat,Yes,5.7,5.3
+594,19,Female,High School,Other,4.6,Snapchat,No,6.2,6.2
+153,21,Male,Graduate,Other,5.9,YouTube,No,7.1,6.4
+784,18,Male,High School,Other,7.5,LinkedIn,Yes,5.0,5.4
+913,18,Male,Graduate,Canada,6.3,LinkedIn,Yes,6.0,6.0
+11,19,Male,Graduate,Other,5.3,YouTube,No,7.0,6.7
+451,23,Female,Undergraduate,Other,1.6,TikTok,Yes,8.7,8.9
+985,20,Male,High School,Other,6.5,LinkedIn,Yes,4.5,4.7
+724,20,Female,Undergraduate,Other,8.2,Twitter,Yes,5.0,5.9
+239,23,Male,High School,Other,6.1,LinkedIn,Yes,5.9,4.8
+160,22,Male,Undergraduate,Other,5.7,LinkedIn,No,7.3,6.9
+793,19,Female,Undergraduate,Other,5.1,Twitter,Yes,7.1,6.6
+389,24,Male,Graduate,Other,3.8,Twitter,Yes,6.3,6.2
+437,20,Male,Graduate,India,5.7,YouTube,Yes,5.1,4.2
+935,20,Female,Graduate,UK,6.6,Facebook,Yes,5.3,4.6
+321,20,Male,Undergraduate,USA,8.3,Instagram,Yes,5.1,5.8
+186,20,Male,Graduate,Other,7.1,Instagram,Yes,6.0,4.5
+123,18,Male,Graduate,Other,3.0,Facebook,No,8.4,7.9
+198,22,Male,Graduate,Other,8.5,Instagram,No,6.0,5.3
+111,24,Female,Graduate,Other,3.5,Twitter,No,7.2,7.3
+743,18,Female,Undergraduate,USA,3.8,Twitter,No,8.4,7.2
+953,19,Male,Undergraduate,Other,2.0,Instagram,No,7.1,8.2
+998,18,Female,Graduate,Other,4.2,Twitter,Yes,6.9,6.8
+802,21,Female,High School,Other,4.5,YouTube,No,6.1,6.3
+742,24,Female,Undergraduate,Other,4.2,YouTube,No,7.3,6.1
+224,24,Female,High School,Other,5.6,Facebook,Yes,5.5,4.1
+131,21,Female,Undergraduate,India,3.1,Facebook,Yes,7.2,8.5
+169,19,Female,Undergraduate,Other,5.9,Instagram,No,5.5,4.0
+382,22,Female,High School,India,7.5,YouTube,Yes,5.5,4.7
+918,20,Male,Graduate,Other,3.8,Snapchat,No,6.7,6.2
+593,21,Female,High School,Other,3.3,LinkedIn,No,8.9,7.9
+52,24,Male,Graduate,Other,4.1,Facebook,No,6.1,6.0
+90,19,Female,Undergraduate,Other,6.8,YouTube,Yes,5.6,5.0
+60,23,Male,High School,Other,3.5,Snapchat,No,7.0,6.0
+338,19,Male,High School,Canada,3.4,YouTube,Yes,8.5,8.0
+452,19,Male,High School,Other,5.8,LinkedIn,Yes,6.3,6.4
+736,19,Female,High School,India,6.0,TikTok,Yes,6.8,6.5
+746,23,Female,High School,Other,3.0,TikTok,No,8.6,7.7
+44,19,Male,Undergraduate,USA,5.0,Twitter,No,7.5,6.6
+773,24,Female,Graduate,India,5.5,Twitter,Yes,4.6,5.1
+721,20,Female,Undergraduate,India,5.3,TikTok,Yes,6.0,6.5
+129,21,Male,Undergraduate,Canada,5.6,Facebook,No,6.0,6.3
+606,19,Female,Undergraduate,India,5.8,Facebook,Yes,7.4,6.5
+961,18,Male,Undergraduate,Other,2.2,Twitter,No,8.3,7.4
+780,24,Male,Graduate,Other,1.7,LinkedIn,No,8.4,7.6
+215,21,Male,High School,India,3.0,Instagram,No,7.2,7.2
+290,18,Female,Graduate,Other,4.7,TikTok,No,6.6,7.0
+53,23,Male,Graduate,Other,6.2,YouTube,No,5.9,5.6
+408,18,Male,Graduate,Other,6.2,TikTok,Yes,5.9,4.9
+310,20,Female,Graduate,Other,1.9,Instagram,No,7.8,7.8
+702,23,Male,High School,UK,2.6,LinkedIn,No,8.8,8.1
+660,18,Male,High School,Other,5.9,Facebook,No,6.1,6.2
+14,20,Male,Undergraduate,Other,3.9,LinkedIn,No,6.9,6.6
+288,22,Female,High School,India,7.1,Instagram,No,5.1,4.1
+350,19,Male,Undergraduate,USA,3.9,Twitter,Yes,6.1,6.0
+611,20,Male,Undergraduate,Other,8.0,TikTok,No,4.9,4.8
+735,24,Male,Graduate,Other,5.9,Snapchat,No,6.1,6.1
+402,24,Female,High School,Australia,8.4,Facebook,Yes,5.9,5.5
+488,21,Female,Graduate,Other,7.5,YouTube,Yes,4.7,6.0
+524,20,Female,Graduate,Australia,7.5,Snapchat,Yes,5.2,4.8
+535,19,Male,High School,India,5.3,Snapchat,Yes,7.0,6.8
+431,18,Male,Undergraduate,Canada,6.2,Twitter,No,4.7,4.2
+664,19,Male,High School,Other,5.2,Facebook,Yes,6.5,6.1
+572,21,Male,Undergraduate,Other,5.5,Facebook,Yes,5.7,6.0
+428,20,Male,Undergraduate,Canada,7.9,Instagram,Yes,4.7,5.2
+430,23,Male,Graduate,Other,7.7,Snapchat,Yes,5.3,4.5
+238,20,Male,High School,Other,3.9,YouTube,Yes,6.7,6.0
+179,21,Female,High School,Other,3.9,LinkedIn,Yes,6.9,6.1
+289,21,Female,High School,Canada,5.9,YouTube,Yes,6.0,5.1
+958,18,Male,High School,Other,3.8,Facebook,No,8.4,8.3
+991,19,Male,Undergraduate,Other,7.4,TikTok,Yes,5.5,4.1
+894,20,Female,Undergraduate,Other,7.2,LinkedIn,Yes,5.9,4.2
+22,19,Male,Undergraduate,Other,6.1,TikTok,Yes,4.6,4.9
+919,22,Male,High School,India,3.9,Facebook,No,8.6,8.3
+487,20,Female,Undergraduate,Australia,5.6,LinkedIn,Yes,4.9,5.9
+177,22,Female,High School,Other,6.3,Snapchat,Yes,5.1,5.7
+405,22,Female,Graduate,Other,2.3,Facebook,No,9.0,7.1
+45,19,Male,Undergraduate,India,6.4,YouTube,Yes,5.9,5.9
+682,19,Female,High School,USA,5.2,YouTube,No,7.0,6.7
+698,21,Female,Graduate,Germany,7.1,LinkedIn,Yes,5.5,4.4
+384,23,Female,Undergraduate,India,6.1,Instagram,Yes,4.6,5.2
+677,20,Male,High School,Other,7.9,Twitter,Yes,5.4,5.3
+858,19,Female,High School,Canada,7.4,Twitter,Yes,4.6,5.8
+283,20,Female,Graduate,UK,7.1,TikTok,Yes,5.9,4.2
+718,24,Male,Undergraduate,Other,5.2,YouTube,Yes,6.5,6.0
+936,21,Male,Graduate,Other,5.8,Twitter,No,5.4,4.9
+98,21,Female,High School,Other,5.8,YouTube,Yes,4.9,4.1
+895,19,Female,Undergraduate,Other,2.2,Twitter,No,7.6,8.9
+242,24,Male,Graduate,Germany,6.9,Snapchat,Yes,5.3,4.3
+602,22,Female,High School,Other,6.9,Snapchat,Yes,4.6,4.3
+207,20,Female,Undergraduate,Other,6.3,Facebook,Yes,5.9,5.3
+185,24,Female,High School,Other,4.4,Twitter,No,6.2,6.2
+286,23,Male,Undergraduate,Germany,3.2,TikTok,No,8.9,8.0
+926,21,Female,High School,UK,7.6,Facebook,No,5.9,4.7
+65,22,Female,Graduate,Other,3.5,Instagram,Yes,8.7,8.0
+214,24,Male,High School,Australia,4.6,Snapchat,Yes,6.4,6.8
+997,21,Female,Undergraduate,Other,6.1,Twitter,Yes,4.5,5.3
+166,22,Male,Undergraduate,Other,3.3,TikTok,No,8.2,7.4
+213,24,Male,High School,Other,5.2,LinkedIn,Yes,6.9,6.9
+977,20,Female,Graduate,UK,5.9,LinkedIn,Yes,5.5,4.3
+856,23,Female,Undergraduate,Other,6.1,Twitter,Yes,5.1,4.9
+24,21,Male,Graduate,Other,3.9,TikTok,No,7.7,7.5
+745,20,Male,Undergraduate,Other,7.2,Facebook,Yes,4.6,4.4
+574,22,Female,Undergraduate,Other,7.9,LinkedIn,No,5.6,5.3
+467,18,Female,Undergraduate,Other,7.5,TikTok,Yes,5.8,4.6
+157,24,Female,Undergraduate,USA,6.4,Twitter,Yes,6.0,5.2
+596,21,Male,Undergraduate,India,7.6,Facebook,Yes,5.8,4.8
+41,18,Female,High School,Other,5.8,Twitter,Yes,5.0,5.6
+618,23,Female,Graduate,Canada,2.8,Twitter,No,7.4,8.4
+392,20,Male,Undergraduate,UK,6.3,Facebook,No,4.7,4.3
+753,23,Female,Undergraduate,Canada,4.3,Snapchat,Yes,7.4,6.1
+530,20,Female,High School,Germany,8.2,Snapchat,Yes,4.8,4.0
+518,18,Male,Graduate,Other,6.9,Twitter,Yes,5.9,4.1
+459,22,Male,Undergraduate,Other,5.7,Facebook,Yes,4.6,4.8
+116,24,Female,High School,Other,5.9,TikTok,No,5.8,5.6
+599,22,Female,High School,Other,1.9,Snapchat,No,8.4,8.1
+272,23,Male,High School,Other,7.7,Snapchat,Yes,5.1,5.7
+630,24,Male,Undergraduate,Other,3.2,Twitter,No,7.8,8.4
+672,24,Female,Graduate,Other,1.7,TikTok,No,8.7,8.0
+453,21,Male,Graduate,India,7.8,TikTok,Yes,5.0,4.5
+549,21,Male,High School,Germany,1.9,Instagram,Yes,8.7,8.1
+462,19,Male,Graduate,USA,7.5,TikTok,Yes,4.9,4.2
+426,21,Male,Undergraduate,USA,7.1,YouTube,Yes,5.9,4.7
+750,20,Female,High School,Canada,4.3,Facebook,No,6.4,6.2
+31,23,Male,Undergraduate,Other,8.2,Twitter,No,5.7,4.9
+391,21,Female,Undergraduate,Other,8.3,TikTok,No,4.6,4.8
+247,18,Female,High School,Other,8.1,Facebook,No,4.7,5.6
+219,19,Male,High School,Other,4.8,TikTok,Yes,7.0,6.1
+994,20,Female,Graduate,Other,2.7,YouTube,No,7.8,7.5
+929,18,Male,Graduate,UK,7.5,LinkedIn,Yes,5.4,4.2
+107,24,Male,High School,Other,3.8,LinkedIn,No,7.9,8.8
+218,21,Female,Undergraduate,Other,5.9,Instagram,Yes,4.9,5.6
+57,23,Male,High School,Other,3.4,Instagram,No,8.4,7.3
+576,19,Male,Undergraduate,USA,3.9,Twitter,Yes,6.6,6.9
+17,19,Male,Undergraduate,Other,7.9,TikTok,Yes,5.4,4.2
+765,24,Male,Graduate,Other,2.1,Instagram,Yes,7.2,7.2
+260,18,Male,Undergraduate,Other,6.3,Snapchat,Yes,4.5,5.2
+189,24,Male,Undergraduate,Other,4.4,LinkedIn,Yes,7.5,6.8
+500,21,Female,Undergraduate,Australia,3.7,Twitter,No,6.7,6.6
+495,24,Female,High School,USA,7.4,YouTube,Yes,5.9,4.3
+663,21,Female,Undergraduate,India,4.4,LinkedIn,Yes,6.4,6.4
+774,23,Male,Undergraduate,Other,2.5,LinkedIn,No,7.1,8.8
+915,19,Female,High School,Germany,6.5,Facebook,No,5.9,5.3
+739,21,Female,High School,Other,3.7,Twitter,No,8.2,7.3
+40,22,Female,Graduate,Australia,7.6,TikTok,Yes,5.2,4.5
+152,18,Male,Graduate,India,6.8,Instagram,Yes,4.6,4.1
+684,23,Male,Graduate,Other,7.5,Instagram,Yes,5.7,4.5
+979,24,Female,High School,Other,7.1,YouTube,Yes,4.7,4.0
+94,24,Male,High School,Canada,6.7,Twitter,Yes,6.0,4.5
+9,19,Male,Undergraduate,Other,3.6,Twitter,Yes,6.9,6.8
+72,21,Male,High School,Other,3.1,Snapchat,Yes,7.5,8.9
+787,21,Male,Graduate,Other,5.2,TikTok,Yes,6.4,7.0
+764,18,Female,Undergraduate,Other,4.7,LinkedIn,No,6.2,6.4
+347,19,Male,High School,Other,2.9,YouTube,No,8.0,7.4
+63,23,Female,Graduate,Other,3.6,Snapchat,No,8.4,8.4
+758,20,Female,High School,USA,5.6,TikTok,No,6.8,6.5
+737,22,Male,Graduate,Other,5.2,Facebook,Yes,7.2,6.0
+892,24,Female,Undergraduate,Canada,1.7,YouTube,No,7.1,7.5
+379,19,Male,Graduate,Other,3.7,YouTube,No,7.0,6.7
+406,22,Male,Undergraduate,Australia,1.5,Instagram,No,8.7,8.6
+878,21,Male,Graduate,India,4.4,Instagram,No,7.3,6.1
+323,21,Male,Undergraduate,Other,7.4,Instagram,Yes,4.8,4.8
+146,22,Female,High School,Other,4.0,Facebook,Yes,6.0,6.2
+314,20,Male,Graduate,Other,2.0,Twitter,No,7.7,7.7
+141,20,Male,High School,Other,5.7,LinkedIn,Yes,5.5,6.0
+555,18,Male,Undergraduate,Other,4.5,LinkedIn,No,6.1,6.4
+751,24,Male,High School,Canada,3.2,TikTok,No,7.5,8.0
+170,20,Female,High School,Other,6.7,Twitter,Yes,5.1,5.7
+343,21,Male,Undergraduate,Other,8.3,Snapchat,Yes,4.7,5.0
+959,18,Female,Undergraduate,Other,3.2,Snapchat,No,7.8,8.5
+853,19,Female,High School,Other,5.9,TikTok,No,6.3,6.8
+619,21,Male,Undergraduate,Other,5.2,YouTube,Yes,6.6,6.3
+275,22,Male,Undergraduate,Other,3.5,LinkedIn,No,8.1,7.2
+928,22,Male,High School,USA,8.0,YouTube,Yes,5.2,4.7
+294,21,Female,Graduate,Other,7.3,TikTok,Yes,5.8,5.6
+150,21,Male,Graduate,Other,6.3,YouTube,Yes,5.9,4.5
+300,21,Male,Graduate,Other,8.4,Snapchat,Yes,4.7,5.4
+257,19,Male,High School,USA,2.4,LinkedIn,No,7.2,8.6
+5,23,Female,Graduate,Other,6.4,Instagram,Yes,5.4,5.4
+47,24,Female,High School,Other,4.8,LinkedIn,Yes,6.7,6.4
+627,23,Female,High School,Other,7.7,Snapchat,Yes,5.3,5.3
+575,21,Male,Undergraduate,Other,6.7,Facebook,Yes,4.6,4.5
+871,20,Female,High School,Other,2.9,Facebook,No,8.4,8.4
+436,19,Female,High School,Other,8.3,LinkedIn,Yes,5.0,4.5
+106,18,Male,Undergraduate,Other,2.5,LinkedIn,No,8.7,8.6
+990,18,Female,Graduate,Other,6.2,Facebook,Yes,5.1,5.2
+301,24,Male,Graduate,Other,2.8,Snapchat,No,8.5,7.6
+917,18,Female,High School,Other,4.8,LinkedIn,Yes,6.8,6.3
+178,20,Male,High School,India,7.6,Instagram,Yes,5.4,4.1
+386,19,Female,Undergraduate,Other,4.5,Facebook,No,6.2,6.6
+840,21,Male,High School,Other,2.6,TikTok,No,7.4,8.9
+168,22,Female,Undergraduate,Other,2.3,YouTube,No,8.8,9.0
+843,20,Male,Undergraduate,Other,2.8,Twitter,No,8.2,7.3
+355,19,Male,Graduate,Other,7.0,Instagram,Yes,4.7,5.5
+658,23,Female,Undergraduate,Other,5.6,YouTube,No,6.6,6.5
+539,21,Male,High School,UK,3.5,Instagram,No,8.5,8.4
+566,18,Female,High School,USA,5.9,Twitter,No,4.5,5.8
+37,19,Male,Graduate,Other,2.4,LinkedIn,No,8.4,7.6
+515,20,Female,Graduate,Other,6.4,Facebook,No,5.5,4.3
+789,21,Female,Graduate,Other,2.7,Twitter,No,7.5,7.9
+92,24,Male,High School,India,8.2,Instagram,Yes,4.8,4.5
+164,22,Male,Undergraduate,Other,1.9,Instagram,No,7.2,8.2
+50,21,Male,High School,Other,5.4,Instagram,Yes,6.6,6.5
+20,21,Female,Undergraduate,USA,6.1,Snapchat,Yes,5.3,6.0
+85,23,Female,Graduate,Other,7.4,Instagram,No,5.3,5.5
+1000,24,Male,Undergraduate,Germany,7.1,LinkedIn,Yes,5.8,4.2
+941,21,Male,Undergraduate,Australia,5.7,Instagram,Yes,7.5,6.6
+13,20,Female,High School,Other,1.8,Twitter,No,7.2,7.5
+532,22,Female,Undergraduate,Other,7.9,YouTube,Yes,5.1,4.9
+250,24,Male,Graduate,Other,8.1,Twitter,Yes,6.0,4.8
+889,24,Female,High School,Other,3.6,Instagram,No,6.9,6.5
+633,21,Male,Graduate,India,7.8,Facebook,Yes,5.5,5.7
+761,22,Female,Undergraduate,Other,7.0,Instagram,Yes,5.9,4.0
+960,22,Female,Graduate,Canada,7.7,TikTok,Yes,5.8,4.2
+695,24,Female,Graduate,Other,5.7,Snapchat,Yes,6.9,6.4
+134,19,Female,Undergraduate,Other,4.9,LinkedIn,Yes,6.6,6.5
+231,24,Female,High School,USA,7.6,Instagram,No,5.3,4.9
+731,19,Female,High School,India,8.5,Snapchat,Yes,5.8,4.8
+144,22,Female,High School,India,6.6,TikTok,No,5.3,5.0
+475,20,Female,Graduate,Other,7.5,Snapchat,No,5.9,4.6
+927,24,Female,High School,Other,7.5,YouTube,Yes,4.8,5.4
+863,23,Male,Graduate,Other,8.2,Facebook,Yes,5.7,4.0
+418,20,Female,Graduate,UK,5.3,YouTube,No,7.1,6.6
+353,22,Female,Undergraduate,Other,4.9,LinkedIn,Yes,7.0,6.7
+237,21,Female,High School,USA,5.8,Instagram,Yes,5.8,5.1
+137,23,Male,Graduate,Other,6.4,LinkedIn,Yes,5.4,4.3
+477,18,Female,Graduate,Other,3.8,Snapchat,Yes,6.2,6.8
+592,22,Female,Graduate,USA,3.8,Facebook,Yes,6.9,6.5
+506,18,Male,Graduate,Australia,4.0,Twitter,Yes,7.4,6.5
+461,21,Male,Undergraduate,Other,8.0,LinkedIn,Yes,5.5,5.6
+330,23,Female,Undergraduate,Other,8.3,Snapchat,Yes,5.6,5.8
+559,19,Male,High School,USA,5.8,LinkedIn,Yes,5.3,5.0
+922,23,Male,Graduate,Other,6.2,Snapchat,Yes,5.3,5.0
+329,18,Male,Undergraduate,Other,2.3,Snapchat,No,7.5,8.2
+571,19,Female,High School,Other,6.2,YouTube,Yes,5.8,4.3
+883,20,Female,High School,Other,7.0,Instagram,No,4.5,5.9
+766,24,Male,High School,Other,3.8,LinkedIn,No,7.2,8.9
+203,18,Female,High School,Other,3.3,TikTok,No,8.6,8.7
+334,19,Female,High School,USA,1.5,Instagram,No,8.2,8.2
+565,18,Male,Graduate,Other,6.7,YouTube,Yes,5.8,4.5
+182,23,Male,Graduate,India,2.9,YouTube,No,7.7,7.6
+372,24,Female,Undergraduate,Other,3.2,YouTube,Yes,7.7,7.9
+327,21,Female,Graduate,Other,6.0,Twitter,Yes,5.9,4.1
+233,21,Female,Undergraduate,Other,3.2,YouTube,No,7.6,7.6
+479,22,Male,Graduate,Other,2.3,Snapchat,Yes,8.1,7.3
+357,22,Male,Undergraduate,Other,8.1,YouTube,Yes,5.6,5.4
+404,21,Male,Graduate,Other,3.5,Twitter,No,7.5,8.9
+783,21,Male,Graduate,USA,5.8,TikTok,Yes,5.5,5.4
+781,24,Female,Graduate,Other,2.9,Twitter,No,8.0,7.0
+493,22,Male,Undergraduate,Other,6.0,YouTube,Yes,6.7,6.4
+854,19,Male,Graduate,USA,5.8,YouTube,Yes,5.3,5.8
+108,19,Male,Graduate,Other,4.9,Facebook,No,6.0,6.3
+415,20,Male,High School,Other,5.6,TikTok,Yes,6.8,6.8
+176,18,Male,High School,Other,5.6,YouTube,Yes,4.5,5.7
+140,19,Male,Undergraduate,Other,7.5,TikTok,Yes,4.7,4.1
+58,20,Female,High School,Other,8.2,Instagram,Yes,5.8,4.9
+715,18,Female,High School,Other,7.4,YouTube,Yes,5.8,4.7
+159,18,Female,High School,Australia,6.3,LinkedIn,Yes,5.9,5.4
+126,23,Female,High School,Other,2.1,LinkedIn,No,8.1,8.8
+56,19,Male,High School,Australia,5.7,YouTube,Yes,6.0,5.8
+646,21,Male,High School,Canada,7.1,TikTok,Yes,4.5,4.5
+986,23,Male,Graduate,Other,5.6,Snapchat,Yes,5.8,4.0
+579,23,Female,High School,Other,7.5,Instagram,Yes,5.9,5.2
+801,24,Female,Graduate,India,3.0,Snapchat,Yes,7.1,7.2
+135,21,Female,High School,Germany,3.7,YouTube,No,8.7,8.6
+874,21,Male,High School,Other,3.6,TikTok,Yes,8.5,7.1
+562,19,Female,High School,Other,5.4,YouTube,No,6.4,6.6
+424,23,Male,Undergraduate,Other,2.0,Facebook,No,7.7,7.9
+304,22,Female,Undergraduate,Other,5.8,TikTok,Yes,5.7,4.1
+795,21,Female,Graduate,Other,4.5,Instagram,Yes,6.4,6.7
+554,24,Male,Graduate,Other,6.3,Snapchat,No,5.3,4.3
+568,23,Female,Undergraduate,Germany,7.9,Instagram,Yes,5.6,5.1
+420,24,Female,High School,Other,6.0,TikTok,Yes,4.9,5.4
+244,19,Male,Graduate,Other,5.0,YouTube,Yes,6.2,6.4
+534,18,Female,Graduate,UK,6.7,Facebook,Yes,5.8,4.6
+511,23,Male,High School,India,7.2,Twitter,Yes,5.3,6.0
+837,21,Female,Graduate,India,3.8,LinkedIn,No,7.2,7.5
+412,22,Female,High School,Other,4.6,YouTube,Yes,6.4,6.0
+380,22,Male,Graduate,Other,5.7,Snapchat,No,6.6,6.4
+920,22,Female,Undergraduate,Other,6.3,YouTube,Yes,5.6,5.0
+521,19,Male,Graduate,Other,7.9,LinkedIn,Yes,5.8,4.1
+291,23,Female,Graduate,Other,5.0,Snapchat,No,6.1,6.6
+447,21,Female,Graduate,Other,3.5,TikTok,Yes,7.5,9.0
+741,22,Female,Graduate,Other,5.2,LinkedIn,Yes,7.2,6.3
+485,19,Female,Graduate,Other,2.7,YouTube,No,8.6,7.5
+899,23,Female,Undergraduate,Other,6.5,Twitter,Yes,5.6,4.6
+852,23,Male,Undergraduate,Other,4.1,TikTok,Yes,7.4,6.9
+387,23,Male,Graduate,Other,2.4,LinkedIn,No,7.1,7.1
+833,22,Male,High School,India,5.1,Twitter,Yes,6.3,6.9
+399,18,Male,Undergraduate,Other,5.9,Twitter,Yes,6.0,6.5
+868,19,Female,Undergraduate,Germany,5.7,TikTok,Yes,5.2,4.1
+586,24,Female,Undergraduate,Other,8.2,Twitter,Yes,5.0,4.7
+397,19,Male,Undergraduate,Other,6.9,TikTok,No,5.0,5.6
+322,21,Male,High School,Other,7.6,Twitter,Yes,5.0,4.1
+906,19,Male,Undergraduate,UK,2.0,Snapchat,No,7.5,7.8
+184,18,Male,Graduate,Other,3.9,Facebook,Yes,7.3,8.5
+744,19,Female,High School,Other,4.5,LinkedIn,Yes,6.1,6.3
+803,20,Male,Graduate,Other,3.5,TikTok,Yes,7.1,8.1
+934,18,Male,Graduate,Other,7.3,Twitter,Yes,5.3,5.0
+227,21,Female,High School,USA,3.7,Facebook,No,7.5,8.3
+648,23,Male,Undergraduate,USA,4.7,YouTube,Yes,6.9,6.2
+523,18,Male,High School,Other,5.3,YouTube,Yes,6.9,6.4
+388,20,Male,Graduate,Australia,7.3,Twitter,Yes,5.3,6.0
+629,19,Female,Graduate,India,3.8,LinkedIn,No,7.4,6.9
+69,22,Female,Graduate,India,8.4,Instagram,No,6.0,5.5
+551,19,Female,Undergraduate,Other,8.3,Twitter,No,4.7,4.6
+309,21,Male,Undergraduate,Other,4.0,Snapchat,No,6.6,6.9
+256,23,Female,Undergraduate,India,7.6,YouTube,Yes,4.7,4.8
+121,23,Female,High School,Other,5.3,Facebook,Yes,7.3,6.2
+149,18,Male,High School,Other,5.9,Snapchat,No,6.2,6.1
+628,22,Female,Undergraduate,Other,4.1,TikTok,No,6.4,6.9
+390,22,Male,High School,Other,5.6,TikTok,Yes,6.1,6.3
+908,21,Female,High School,Other,8.4,Facebook,Yes,5.2,5.1
+251,20,Male,Undergraduate,Australia,5.8,Snapchat,Yes,5.8,4.9
+645,24,Female,Graduate,Other,8.2,YouTube,Yes,4.5,5.6
+771,21,Male,Graduate,Other,4.8,Twitter,Yes,6.6,7.0
+474,21,Female,High School,Germany,7.6,Snapchat,Yes,4.9,5.1
+271,22,Female,High School,Other,3.1,Twitter,No,8.5,7.0
+365,18,Male,Undergraduate,Other,7.5,Instagram,No,5.4,5.5
+509,20,Female,Graduate,Other,3.9,Snapchat,Yes,6.3,6.2
+317,20,Female,Undergraduate,USA,7.1,LinkedIn,Yes,6.0,4.1
+298,22,Male,Undergraduate,Other,6.3,TikTok,Yes,5.4,6.0
+729,24,Female,Undergraduate,Other,6.2,LinkedIn,Yes,6.0,4.8
+613,21,Female,Graduate,Other,4.9,LinkedIn,Yes,6.8,6.3
+649,18,Male,Graduate,India,3.0,Instagram,Yes,7.7,8.5
+581,19,Male,Undergraduate,Other,8.0,Twitter,Yes,4.8,4.9
+401,21,Female,Undergraduate,Other,8.2,Facebook,Yes,5.7,5.0
+967,18,Female,Undergraduate,Other,6.0,TikTok,Yes,5.5,5.0
+252,19,Female,Undergraduate,Other,4.8,YouTube,No,6.9,6.9
+951,24,Female,Graduate,Other,5.3,Instagram,No,6.4,6.8
+556,22,Female,Undergraduate,Other,4.5,Instagram,Yes,6.6,6.8
+616,23,Female,Undergraduate,India,1.7,Twitter,No,7.0,8.9
+601,18,Male,Graduate,Germany,6.1,YouTube,Yes,4.6,5.1
+217,18,Male,Graduate,Canada,1.9,Twitter,No,7.3,8.9
+700,21,Male,Undergraduate,Other,7.7,Instagram,No,5.8,5.1
+513,21,Female,Undergraduate,Other,6.9,Instagram,Yes,5.2,5.9
+448,24,Male,Graduate,Other,5.9,Twitter,Yes,5.9,4.4
+598,20,Male,Graduate,Australia,2.4,YouTube,No,8.7,7.2
+346,18,Male,High School,Other,6.5,LinkedIn,Yes,5.0,5.0
+202,20,Male,Graduate,Other,2.6,LinkedIn,Yes,8.8,8.5
+525,20,Male,Graduate,Other,6.9,TikTok,Yes,5.3,5.1
+165,19,Female,Graduate,Germany,5.4,Snapchat,Yes,7.3,6.3
+18,21,Male,Graduate,Australia,4.7,Instagram,Yes,7.4,6.6
+992,21,Male,High School,Other,2.9,Facebook,Yes,8.7,8.9
+480,21,Male,High School,Other,1.7,Instagram,No,8.1,7.8
+80,23,Female,High School,Other,6.2,TikTok,Yes,6.0,4.3
+216,23,Male,Graduate,Other,5.6,TikTok,Yes,5.5,4.2
+768,19,Female,Graduate,Other,4.5,TikTok,Yes,6.5,6.8
+810,24,Female,Graduate,Other,8.0,Snapchat,No,5.6,6.0
+210,21,Male,High School,Australia,3.5,Twitter,Yes,7.4,6.7
+306,22,Male,Undergraduate,Canada,4.8,Twitter,No,6.9,6.1
+796,24,Female,Undergraduate,Other,2.3,YouTube,No,8.8,8.5
+316,22,Male,Graduate,Other,8.0,LinkedIn,Yes,4.5,5.4
+10,22,Male,Graduate,Other,6.6,Snapchat,Yes,5.2,5.2
+846,22,Male,Graduate,Other,1.6,TikTok,Yes,8.2,8.6
+624,22,Female,Graduate,Canada,6.8,Instagram,Yes,5.4,4.4
+937,19,Male,Graduate,UK,1.8,TikTok,No,7.6,8.3
+417,20,Female,Undergraduate,Other,3.9,TikTok,No,8.8,8.5
+268,24,Male,High School,Other,6.7,Snapchat,No,5.4,5.4
+825,23,Male,Undergraduate,Other,7.8,Twitter,Yes,5.7,5.9
+747,20,Female,Graduate,Other,5.0,TikTok,Yes,7.4,6.7
+83,18,Female,Undergraduate,Other,7.6,Facebook,No,4.5,5.9
+947,21,Female,Undergraduate,Other,1.7,Instagram,No,8.7,7.4
+794,22,Female,High School,Other,5.8,LinkedIn,No,6.7,6.5
+472,21,Male,High School,India,6.4,Snapchat,No,5.5,5.9
+341,22,Female,Undergraduate,Other,2.5,Snapchat,No,8.0,8.6
+491,24,Male,Graduate,Germany,5.2,YouTube,Yes,6.5,6.4
+563,23,Male,Undergraduate,Other,5.2,TikTok,Yes,6.8,6.9
+829,20,Female,Graduate,Germany,6.8,TikTok,Yes,5.1,4.9
+360,22,Female,Undergraduate,Other,7.1,LinkedIn,Yes,6.0,4.1
+282,21,Female,High School,Canada,4.7,Facebook,No,7.1,6.5
+540,19,Male,Undergraduate,Canada,7.7,Facebook,Yes,5.4,4.4
+580,21,Female,High School,Other,2.6,LinkedIn,No,8.9,8.3
+625,19,Female,Undergraduate,Other,6.2,TikTok,Yes,5.0,4.8
+946,22,Male,Undergraduate,Australia,5.7,Snapchat,Yes,7.4,6.9
+615,20,Female,Graduate,USA,2.9,Twitter,No,7.3,7.1
+798,19,Female,High School,Other,4.2,Facebook,Yes,6.9,6.7
+54,21,Male,Graduate,Canada,3.8,YouTube,Yes,9.0,8.5
+222,23,Female,Graduate,India,3.6,Instagram,No,7.6,7.9
+952,24,Female,Undergraduate,Other,2.1,Instagram,No,8.0,8.7
+875,23,Female,High School,Other,4.7,Twitter,No,7.3,6.0
+687,24,Male,High School,Other,7.7,LinkedIn,Yes,5.8,4.4
+754,23,Female,High School,Other,7.2,Facebook,No,5.6,4.6
+226,23,Male,Graduate,India,8.4,Twitter,No,5.6,5.7
+655,22,Female,Graduate,India,4.8,Instagram,No,7.0,6.3
+181,21,Female,Graduate,India,2.6,TikTok,Yes,8.7,7.5
+59,20,Male,Undergraduate,Other,8.1,Twitter,Yes,4.6,4.7
+366,19,Male,High School,Other,6.3,TikTok,Yes,5.4,4.9
+171,20,Male,Graduate,Other,7.6,LinkedIn,Yes,4.6,5.0
+582,20,Female,High School,Other,6.1,YouTube,Yes,5.1,4.1
+34,24,Female,Graduate,Other,3.3,Facebook,No,7.2,7.3
+99,23,Female,Undergraduate,Other,6.9,TikTok,Yes,5.9,4.6
+376,20,Male,High School,Other,2.9,YouTube,No,7.6,7.6
+689,24,Male,High School,Other,5.6,TikTok,Yes,5.6,5.3
+132,19,Male,High School,Other,4.3,YouTube,Yes,6.4,6.4
+981,21,Male,High School,Other,6.8,Twitter,Yes,4.6,4.0
+89,23,Female,Undergraduate,Other,5.4,Instagram,No,6.6,6.3
+995,19,Male,Graduate,Other,8.1,YouTube,No,4.5,5.8
+187,22,Female,Undergraduate,Other,7.3,TikTok,Yes,4.8,5.7
+792,24,Male,Graduate,Other,3.7,LinkedIn,No,8.5,8.0
+823,18,Male,High School,India,3.7,LinkedIn,Yes,8.6,7.4
+454,24,Male,Undergraduate,Canada,6.3,Facebook,Yes,5.6,4.5
+378,22,Male,High School,Other,5.6,Instagram,Yes,5.8,5.2
+113,24,Female,High School,Other,3.7,YouTube,Yes,7.4,6.7
+318,21,Male,Graduate,Germany,7.2,LinkedIn,Yes,5.1,4.3
+903,18,Male,Undergraduate,Other,7.0,YouTube,No,5.2,4.9
+636,24,Female,Undergraduate,Germany,5.5,Twitter,Yes,4.6,4.8
+573,19,Female,High School,Other,5.4,Facebook,No,6.7,6.6
+681,18,Male,Undergraduate,Other,2.3,TikTok,No,8.1,7.1
+138,18,Male,High School,Other,5.9,Facebook,No,5.1,4.1
+830,19,Male,High School,Other,5.3,Facebook,Yes,6.8,6.4
+962,20,Male,Graduate,Other,2.0,LinkedIn,No,8.2,7.7
+693,24,Male,Undergraduate,Other,1.6,Snapchat,No,8.9,7.4
+253,21,Female,High School,Australia,5.7,LinkedIn,Yes,6.8,6.6
+921,23,Female,High School,Germany,6.6,Instagram,No,4.6,6.0
+720,22,Male,High School,Other,6.6,LinkedIn,Yes,4.8,4.7
+342,20,Female,Undergraduate,Other,6.9,Instagram,Yes,4.5,4.4
+813,18,Male,High School,Other,3.7,LinkedIn,Yes,7.9,8.2
+446,23,Male,Undergraduate,USA,2.3,LinkedIn,No,7.5,7.4
+517,24,Female,Undergraduate,Other,6.7,Snapchat,No,4.9,4.2
+486,20,Female,Graduate,Other,6.3,LinkedIn,Yes,5.7,5.3
+258,21,Female,Undergraduate,India,4.2,TikTok,No,6.1,6.5
+204,21,Female,High School,Other,2.3,Twitter,Yes,7.0,8.4
+393,23,Female,Undergraduate,Australia,2.2,Instagram,No,8.6,7.7
+704,23,Male,Graduate,Other,3.6,TikTok,No,8.6,7.9
+980,19,Male,Graduate,Other,3.3,Instagram,No,8.2,7.3
+612,19,Male,High School,Other,6.5,TikTok,Yes,5.0,4.2
+872,18,Male,Undergraduate,Other,7.4,Twitter,Yes,4.9,4.3
+635,23,Female,Graduate,Other,4.7,Twitter,No,7.3,6.3
+948,24,Female,Undergraduate,Other,3.8,Facebook,No,6.8,6.9
+414,23,Female,Undergraduate,Germany,6.1,Snapchat,Yes,5.3,5.7
+717,18,Male,High School,Canada,6.1,Instagram,Yes,5.6,4.6
+881,18,Female,Undergraduate,Other,7.7,Facebook,No,5.4,4.0
+39,18,Male,High School,Other,5.0,Snapchat,Yes,6.5,6.8
+597,20,Female,Graduate,Other,5.9,YouTube,Yes,5.0,5.6
+373,18,Female,Undergraduate,Other,8.0,Twitter,Yes,5.4,5.7
+407,20,Male,Graduate,Germany,4.4,YouTube,No,6.1,6.5
+274,20,Male,High School,India,7.5,LinkedIn,No,5.2,5.2
+112,22,Male,Graduate,India,5.5,Twitter,Yes,7.1,7.0
+969,22,Male,Undergraduate,Other,6.0,Instagram,Yes,5.8,5.5
+891,21,Male,Undergraduate,Canada,2.1,Twitter,No,8.8,7.0
+585,22,Male,Undergraduate,Other,4.1,Facebook,No,6.7,6.3
+167,18,Female,Graduate,Other,5.6,Twitter,Yes,5.6,4.4
+66,23,Male,Undergraduate,India,1.8,Instagram,No,7.8,7.0
+19,22,Male,Graduate,Other,4.7,Facebook,Yes,6.6,6.9
+278,23,Male,Undergraduate,UK,3.9,Twitter,No,7.3,7.0
+622,22,Female,Undergraduate,Other,6.6,YouTube,Yes,5.0,4.1
+465,21,Male,High School,Other,5.9,Facebook,Yes,4.6,5.2
+697,24,Female,High School,Other,3.8,Facebook,Yes,7.5,8.8
+427,18,Female,High School,USA,7.2,YouTube,Yes,5.5,5.8
+707,24,Female,Graduate,Other,7.5,YouTube,No,4.9,4.9
+526,18,Male,High School,Other,1.6,Snapchat,No,8.4,7.7
+245,22,Male,High School,UK,8.1,Snapchat,Yes,5.4,5.1
+228,18,Male,Undergraduate,Other,7.1,Instagram,Yes,5.9,4.8
+313,23,Male,High School,India,2.7,Instagram,No,8.8,8.4
+850,24,Male,Graduate,Other,5.8,Snapchat,Yes,4.8,4.9
+455,21,Male,High School,USA,6.8,Facebook,Yes,5.7,5.6
+668,24,Male,Undergraduate,Other,7.4,Twitter,Yes,5.3,4.1
+584,22,Female,Undergraduate,Canada,4.1,YouTube,Yes,7.2,6.3
+345,22,Male,Undergraduate,Other,6.3,Snapchat,Yes,5.6,4.2
+398,24,Male,Graduate,Other,7.5,Instagram,Yes,5.7,5.7
+332,18,Female,Undergraduate,Other,8.0,TikTok,Yes,4.8,5.3
+254,19,Male,Graduate,India,5.9,YouTube,No,6.0,7.0
+701,24,Male,Graduate,USA,4.4,TikTok,No,6.3,6.2
+896,24,Male,High School,Other,7.0,YouTube,Yes,5.6,5.7
+344,21,Female,Graduate,Other,8.0,Twitter,No,5.2,5.6
+331,21,Male,High School,Canada,2.5,Instagram,No,7.0,8.2
+949,19,Female,Graduate,Australia,6.2,Facebook,Yes,5.2,5.9
+262,21,Female,High School,Other,7.4,LinkedIn,Yes,4.6,5.4
+755,20,Female,High School,USA,4.6,YouTube,No,6.1,6.7
+879,18,Male,Graduate,Other,6.3,Facebook,Yes,4.8,5.0
+77,24,Female,Undergraduate,Germany,3.2,TikTok,No,7.9,7.4
+68,19,Female,Graduate,Other,5.4,LinkedIn,No,7.1,6.5
+807,24,Male,Undergraduate,Other,2.5,LinkedIn,No,7.9,8.8
+74,21,Female,Graduate,Other,2.0,LinkedIn,No,8.7,8.4
+326,23,Female,Undergraduate,Other,2.8,Twitter,No,8.5,8.3
+817,22,Female,High School,Other,5.2,TikTok,Yes,6.3,6.8
+97,21,Male,Graduate,Other,5.2,YouTube,No,6.7,6.8
+560,21,Female,High School,Other,8.1,YouTube,Yes,5.6,4.5
+907,18,Male,Graduate,Other,2.8,Instagram,No,7.3,8.2
+292,19,Male,High School,Other,5.9,LinkedIn,No,7.4,6.5
+626,22,Male,High School,Other,1.6,TikTok,No,7.7,7.8
+265,18,Female,High School,Other,7.6,Snapchat,Yes,5.4,5.8
+529,18,Female,High School,USA,1.9,YouTube,No,7.9,7.2
+507,18,Female,High School,Other,2.9,Snapchat,No,8.2,7.4
+93,18,Female,Undergraduate,USA,2.1,Instagram,No,8.7,7.9
+42,18,Male,High School,Other,5.8,LinkedIn,Yes,5.9,5.5
+816,18,Female,High School,UK,3.6,Twitter,Yes,7.1,7.0
+87,18,Male,Graduate,USA,3.9,YouTube,Yes,6.0,6.7
+726,20,Male,Undergraduate,Other,8.1,LinkedIn,No,5.9,5.9
+637,20,Male,High School,Other,8.2,Twitter,Yes,5.2,5.4
+710,23,Male,Undergraduate,Canada,6.0,Snapchat,Yes,6.5,6.1
+75,19,Female,Graduate,Other,6.1,Facebook,Yes,4.6,4.3
+354,22,Female,High School,Other,7.2,TikTok,Yes,4.5,5.9
+340,21,Female,Graduate,Other,2.5,Facebook,No,8.7,8.3
+145,19,Male,Undergraduate,UK,3.8,Snapchat,Yes,6.6,6.8
+528,22,Male,Undergraduate,USA,5.5,YouTube,Yes,5.2,4.6
+49,20,Male,Graduate,India,5.6,Snapchat,Yes,5.8,5.1
+443,22,Female,Undergraduate,Other,4.5,Snapchat,Yes,6.7,6.9
+578,20,Male,High School,Other,2.8,LinkedIn,No,8.5,8.7
+901,20,Female,Undergraduate,Other,5.5,LinkedIn,No,6.5,6.8
+785,18,Female,Undergraduate,Other,6.3,LinkedIn,No,5.1,4.2
+175,22,Male,High School,Other,4.0,YouTube,No,8.5,8.5
+638,22,Female,High School,UK,5.1,Facebook,Yes,7.1,6.1
+516,20,Female,Undergraduate,Other,4.9,Twitter,No,6.0,7.0
+180,24,Female,Undergraduate,Australia,2.2,LinkedIn,No,7.1,7.1
+324,23,Female,High School,Other,4.0,Instagram,Yes,7.1,8.0
+476,21,Female,High School,Other,5.1,LinkedIn,No,6.9,6.0
+86,22,Male,High School,Other,3.7,YouTube,No,7.4,9.0
+876,19,Male,High School,Other,4.4,TikTok,No,7.0,6.2
+805,20,Male,Undergraduate,USA,7.7,TikTok,Yes,5.6,5.3
+136,19,Male,Undergraduate,USA,6.0,LinkedIn,Yes,5.5,4.7
+806,22,Female,Graduate,Other,7.0,Instagram,Yes,5.8,4.3
+955,19,Female,Undergraduate,Other,5.2,Twitter,No,6.8,6.2
+966,18,Male,High School,Other,6.5,Snapchat,No,5.4,4.1
+319,20,Female,Graduate,Other,3.2,TikTok,No,8.6,7.5
+749,23,Female,Graduate,Other,4.3,TikTok,No,6.1,6.3
+32,22,Male,Undergraduate,Australia,6.2,YouTube,No,5.5,4.8
+569,20,Female,Graduate,USA,6.4,Facebook,Yes,5.5,5.7
+25,24,Male,Graduate,India,8.1,LinkedIn,Yes,5.1,5.1
+595,21,Male,Undergraduate,Other,5.2,Facebook,No,7.3,6.6
+844,22,Male,Undergraduate,Other,6.9,Snapchat,Yes,4.6,5.2
+588,22,Male,Undergraduate,Other,2.6,YouTube,No,7.7,8.9
+760,22,Female,Graduate,Other,1.6,LinkedIn,Yes,7.1,7.4
+974,21,Male,High School,Other,3.8,Snapchat,No,6.7,6.8
+35,22,Female,Undergraduate,Other,7.4,TikTok,Yes,5.2,5.1
+607,20,Female,Undergraduate,Other,6.4,TikTok,No,5.8,4.1
+229,19,Male,Undergraduate,USA,5.1,Twitter,No,7.3,6.6
+62,18,Male,Graduate,UK,6.3,Snapchat,Yes,5.8,5.6
+545,23,Female,Graduate,UK,5.7,Snapchat,Yes,5.5,4.5
+508,24,Female,Graduate,Other,7.3,YouTube,Yes,5.6,5.0
+499,19,Female,Graduate,Other,4.4,LinkedIn,No,6.9,6.5
+26,19,Male,Undergraduate,Other,6.5,LinkedIn,Yes,5.4,5.8
+114,23,Male,High School,Other,3.8,YouTube,No,6.7,6.3
+192,24,Male,Graduate,Other,4.8,YouTube,No,6.7,6.1
+449,18,Female,Undergraduate,Other,2.5,LinkedIn,No,7.3,7.3
+657,18,Female,Graduate,Other,2.8,Twitter,No,8.6,8.0
+263,21,Male,Graduate,Australia,7.2,TikTok,Yes,4.7,5.8
+12,19,Female,Graduate,UK,8.4,Snapchat,Yes,5.0,4.5
+522,20,Female,High School,USA,2.5,Facebook,Yes,8.0,9.0
+82,19,Male,High School,Other,8.4,Snapchat,Yes,4.8,5.4
+893,21,Male,High School,India,2.5,Snapchat,No,7.4,8.0
+984,22,Female,High School,Germany,6.6,Snapchat,Yes,4.7,5.4
+473,19,Female,Undergraduate,Other,3.7,LinkedIn,No,6.1,6.6
+818,22,Female,Undergraduate,Other,2.9,Facebook,No,7.0,7.2
+490,23,Male,Undergraduate,Other,3.3,Instagram,No,8.8,9.0
+973,24,Male,Graduate,Other,7.4,Twitter,Yes,5.6,5.1
+799,22,Female,Undergraduate,Australia,3.0,YouTube,No,8.3,7.8
+71,22,Male,Undergraduate,Other,6.8,Facebook,Yes,5.2,4.3
+456,23,Female,Graduate,India,2.6,Facebook,Yes,7.7,8.7
+125,22,Male,Undergraduate,Other,6.7,Facebook,Yes,5.1,4.7
+821,23,Female,High School,Other,6.7,Instagram,Yes,5.8,5.5
+162,21,Male,Undergraduate,Canada,3.6,YouTube,Yes,6.2,6.1
+308,23,Male,High School,Australia,3.4,YouTube,No,8.7,7.8
+361,20,Male,Undergraduate,Other,6.8,YouTube,Yes,6.0,5.1
+910,18,Male,Undergraduate,Other,2.4,Twitter,Yes,7.3,8.4
+148,18,Male,High School,Other,6.0,Snapchat,Yes,5.0,5.5
+939,23,Female,Graduate,Other,7.4,Instagram,Yes,4.6,4.3
+930,23,Female,Undergraduate,Other,4.5,Twitter,Yes,6.9,6.1
+714,23,Male,Graduate,Other,6.6,TikTok,No,5.6,5.0
+234,19,Male,High School,India,3.6,Facebook,No,8.8,7.9
+21,20,Male,Graduate,Other,2.0,LinkedIn,No,7.6,7.6
+492,21,Female,Undergraduate,India,3.9,Facebook,No,7.8,7.1
+650,20,Male,High School,Other,5.5,Instagram,No,6.7,6.8
+993,18,Male,High School,Other,6.7,Instagram,No,4.8,5.8
+543,21,Male,Undergraduate,Other,8.2,Snapchat,No,4.9,5.6
+200,21,Female,High School,Other,5.8,TikTok,Yes,5.6,6.0
+968,18,Female,High School,Other,5.9,Snapchat,Yes,4.6,5.6
+128,18,Male,Undergraduate,USA,7.2,Instagram,Yes,5.9,4.4
+236,24,Male,Graduate,Other,6.5,Instagram,No,5.3,4.8
+822,19,Female,Undergraduate,USA,2.9,LinkedIn,No,8.9,7.4
+740,24,Male,Undergraduate,Other,6.3,TikTok,Yes,5.7,5.6
+653,18,Male,High School,Australia,4.4,Twitter,Yes,6.1,6.5
+999,21,Female,Undergraduate,Other,7.1,TikTok,Yes,5.5,4.8
+772,20,Female,High School,UK,3.8,TikTok,No,7.2,8.1
+590,22,Female,Undergraduate,Other,7.9,Instagram,Yes,5.4,4.7
+505,19,Female,High School,Other,5.6,LinkedIn,Yes,6.3,6.4
+642,20,Female,High School,Other,6.3,YouTube,Yes,5.2,4.6
+88,21,Male,Undergraduate,Other,3.2,TikTok,No,7.1,7.1
+811,20,Male,Undergraduate,Other,2.0,Snapchat,Yes,7.1,9.0
+276,23,Male,Undergraduate,Australia,7.6,Snapchat,Yes,5.9,4.1
+898,23,Female,Graduate,Other,7.4,YouTube,Yes,5.7,4.2
+279,21,Male,Undergraduate,Other,5.6,YouTube,Yes,4.9,5.5
+804,19,Female,High School,Other,4.6,LinkedIn,Yes,7.2,6.5
+154,19,Female,Graduate,USA,6.1,Facebook,Yes,4.8,4.2
+273,20,Female,Undergraduate,Other,4.2,Snapchat,No,6.2,6.7
+832,22,Female,Undergraduate,Other,3.7,LinkedIn,No,6.2,6.9
+651,23,Male,Undergraduate,Other,6.1,LinkedIn,No,5.6,4.5
+466,19,Female,Graduate,USA,6.1,TikTok,Yes,5.5,5.6
+849,20,Male,High School,USA,2.7,LinkedIn,No,7.6,8.9
+665,20,Male,Undergraduate,Other,6.0,Snapchat,No,5.8,4.9
+212,23,Male,Graduate,Other,6.4,TikTok,Yes,5.4,4.6
+498,21,Male,Graduate,UK,5.7,YouTube,Yes,5.3,5.8
+249,20,Male,High School,Other,7.0,Instagram,Yes,5.3,5.1
+196,23,Female,Graduate,Other,7.7,Facebook,Yes,5.7,4.6
+435,19,Male,Graduate,Other,6.3,TikTok,Yes,4.8,4.0
+336,20,Female,Undergraduate,Other,5.7,Twitter,Yes,5.2,5.5
+482,18,Male,Undergraduate,Other,8.2,LinkedIn,Yes,5.2,4.6
+194,19,Female,Undergraduate,Other,6.4,Twitter,Yes,5.5,4.4
+690,22,Male,High School,India,6.6,TikTok,Yes,4.7,4.3
+514,18,Female,Undergraduate,Other,6.0,LinkedIn,Yes,4.6,5.4
+779,21,Female,High School,Germany,5.9,LinkedIn,Yes,5.1,5.9
+716,23,Female,Undergraduate,Australia,7.4,LinkedIn,No,5.1,4.3
+661,19,Male,Graduate,Other,5.8,Snapchat,Yes,5.6,4.5
+470,21,Female,High School,Other,5.8,Instagram,Yes,6.0,4.4
+553,21,Male,High School,Other,1.8,LinkedIn,No,9.0,8.2
+877,18,Male,Graduate,Other,6.5,Snapchat,No,5.4,4.1
+797,23,Male,Undergraduate,Other,3.8,Instagram,Yes,6.5,6.6
+264,18,Male,High School,Other,8.0,TikTok,Yes,5.6,4.5
+835,19,Male,Undergraduate,India,7.7,Twitter,Yes,5.5,4.7
+61,19,Male,Undergraduate,Other,8.1,Snapchat,Yes,5.2,5.0
+675,22,Male,Undergraduate,Other,6.2,TikTok,No,5.2,5.8
+191,18,Female,Undergraduate,Other,4.9,Facebook,No,7.1,6.6
+269,23,Male,High School,Other,3.9,YouTube,No,8.5,8.9
+394,21,Male,Undergraduate,Other,6.6,Twitter,No,5.0,6.0
+320,22,Male,High School,Other,6.2,Instagram,No,4.7,4.4
+924,24,Male,Graduate,UK,2.4,Facebook,No,7.5,7.1
+544,19,Male,Undergraduate,Other,3.6,Instagram,Yes,8.7,8.5
+8,18,Male,High School,Other,2.8,Instagram,Yes,8.8,8.6
+411,23,Male,High School,Other,1.6,YouTube,No,7.1,8.1
+91,22,Male,High School,USA,7.3,Facebook,Yes,5.9,4.4
+221,18,Female,High School,Canada,6.8,YouTube,Yes,5.2,5.2
+197,22,Male,Undergraduate,Other,7.7,Facebook,Yes,5.0,6.0
+912,23,Female,Graduate,Germany,5.5,LinkedIn,No,7.3,6.9
+438,22,Male,High School,Other,6.2,TikTok,No,5.5,5.9
+885,24,Female,Graduate,Other,4.6,LinkedIn,Yes,6.8,6.4
+589,20,Male,Graduate,Other,7.2,Facebook,Yes,5.6,5.6
+362,24,Male,Graduate,Other,3.3,TikTok,Yes,7.7,7.7
+297,23,Male,Graduate,Other,5.4,YouTube,Yes,6.6,6.4
+501,23,Female,Undergraduate,Other,3.2,TikTok,No,7.6,9.0
+841,18,Female,Graduate,Other,3.7,Snapchat,No,7.9,7.3
+954,19,Female,High School,Other,6.3,Snapchat,Yes,5.7,5.4
+989,21,Female,Undergraduate,Australia,7.5,YouTube,Yes,5.0,4.8
+775,23,Female,Graduate,Other,6.0,Facebook,Yes,6.0,5.7
+299,20,Male,High School,India,8.2,TikTok,No,5.8,5.9
+122,18,Female,High School,Other,6.1,YouTube,Yes,5.5,4.5
+763,19,Female,Graduate,Other,8.2,Instagram,Yes,4.5,5.8
+259,24,Male,Graduate,Other,5.3,LinkedIn,No,7.0,6.2
+857,22,Male,Undergraduate,Other,5.8,YouTube,Yes,7.2,6.0
+115,22,Female,Undergraduate,USA,7.2,YouTube,Yes,4.6,5.4
+734,23,Male,Undergraduate,UK,4.0,Snapchat,No,7.2,6.2
+293,20,Female,Undergraduate,Other,3.3,LinkedIn,No,7.5,8.3
+938,22,Male,High School,India,6.1,Snapchat,Yes,4.5,5.8
+211,18,Female,High School,India,6.8,Facebook,No,4.8,4.2
+410,24,Male,Undergraduate,Other,3.4,Snapchat,No,7.1,8.3
+541,24,Female,High School,Other,7.7,Instagram,Yes,4.8,4.8
+670,23,Female,High School,Other,7.6,Instagram,Yes,4.7,5.6
+510,24,Female,Graduate,India,4.7,Snapchat,No,6.6,6.8
+978,20,Male,Graduate,Other,4.9,Facebook,Yes,7.4,6.1
+133,23,Male,Undergraduate,Other,8.0,LinkedIn,Yes,4.9,5.9
+812,24,Male,Graduate,Other,7.2,YouTube,No,5.9,5.9
+605,22,Female,High School,USA,1.7,LinkedIn,No,7.9,8.3
+640,24,Female,High School,Other,4.6,TikTok,No,6.8,6.5
+836,18,Male,High School,Australia,4.4,Facebook,Yes,6.5,6.5
+423,24,Female,High School,Other,3.7,TikTok,No,8.8,8.8
+945,18,Female,High School,Other,1.8,YouTube,No,7.9,8.0
+536,23,Female,High School,USA,7.7,YouTube,No,4.9,5.8
+733,18,Male,Graduate,USA,4.5,Facebook,Yes,7.2,6.5
+484,22,Male,High School,Australia,8.1,Facebook,Yes,5.2,5.5
+711,23,Male,Undergraduate,Other,3.5,YouTube,No,7.8,7.2
+190,21,Female,Undergraduate,Canada,3.4,Instagram,No,7.0,7.3
+762,20,Male,High School,Other,4.0,TikTok,Yes,7.1,7.3
+683,24,Male,Graduate,Other,3.8,TikTok,Yes,6.0,6.1
+478,23,Male,Graduate,India,3.8,Twitter,Yes,6.6,6.7
+942,18,Male,Undergraduate,Other,5.6,Twitter,No,6.9,6.0
+860,23,Female,Undergraduate,Australia,4.3,Instagram,No,6.4,6.5
+95,22,Female,Undergraduate,UK,4.1,Snapchat,No,6.1,6.2
+450,21,Female,Undergraduate,India,2.5,YouTube,No,7.2,7.0
+208,23,Male,High School,India,4.5,LinkedIn,Yes,6.2,6.4
+255,22,Female,High School,Other,7.7,Facebook,No,5.8,5.5
+944,24,Male,Graduate,USA,5.2,Facebook,Yes,7.3,6.1
+643,22,Female,High School,Australia,8.0,Facebook,Yes,5.1,4.9
+550,23,Male,Undergraduate,Other,6.9,Snapchat,Yes,5.7,5.7
+367,20,Male,High School,Canada,4.3,LinkedIn,No,6.6,6.7
+463,20,Male,High School,Other,3.5,YouTube,No,8.3,8.2
+666,21,Male,Undergraduate,UK,7.6,LinkedIn,Yes,6.0,4.5
+659,19,Female,Graduate,Other,6.1,LinkedIn,Yes,5.8,4.1
+676,19,Male,Graduate,Other,7.0,YouTube,Yes,5.4,5.9
+770,18,Male,Undergraduate,Other,6.0,YouTube,Yes,5.9,4.1
+669,24,Male,High School,Other,7.0,LinkedIn,Yes,5.0,4.5
+403,23,Female,Graduate,Other,2.7,Instagram,No,7.8,8.8
+311,21,Male,High School,USA,3.9,Snapchat,No,7.1,7.5
+494,19,Female,Graduate,Other,5.5,Twitter,Yes,5.4,5.2
+172,22,Male,Graduate,Other,1.9,Facebook,No,8.4,8.5
+158,23,Female,Undergraduate,Other,1.8,LinkedIn,No,8.2,7.2
+685,23,Male,High School,Other,4.9,Facebook,Yes,6.3,6.1
+748,20,Male,Undergraduate,UK,4.3,LinkedIn,Yes,6.2,6.2
+440,19,Female,High School,Other,2.9,YouTube,Yes,7.1,8.8
+497,22,Female,Graduate,Germany,7.2,Facebook,Yes,5.4,5.7
+433,22,Male,Undergraduate,Other,7.9,LinkedIn,Yes,4.7,4.1
+105,19,Female,Undergraduate,Germany,2.5,Instagram,No,8.3,7.2
+694,21,Female,Graduate,Other,3.8,LinkedIn,No,7.4,7.3
+266,20,Female,Undergraduate,Other,5.8,Snapchat,Yes,7.2,6.1
+240,20,Male,Undergraduate,Other,5.9,Facebook,Yes,5.8,4.7
+151,22,Male,High School,Other,2.6,Instagram,No,7.5,8.8
+280,18,Female,Graduate,Other,5.2,Twitter,Yes,6.8,6.9
+964,21,Male,High School,Other,1.7,Snapchat,No,8.5,7.7
+719,20,Male,Graduate,Australia,2.8,Twitter,No,7.0,7.8
+445,19,Male,Graduate,Other,3.8,Facebook,No,7.4,8.8
+29,24,Male,High School,Other,5.1,LinkedIn,Yes,6.5,6.8
+205,23,Male,Graduate,India,3.7,Instagram,Yes,6.5,6.9
+976,23,Female,Undergraduate,India,1.5,Snapchat,No,7.2,7.7
+531,18,Female,Graduate,UK,3.5,Facebook,No,7.9,8.5
+439,23,Male,Graduate,Other,3.8,Facebook,No,6.5,6.4
+673,21,Female,Undergraduate,Other,4.1,YouTube,No,6.2,6.6
+902,21,Female,High School,Other,5.4,Snapchat,Yes,6.3,6.5
+591,21,Female,Graduate,Other,6.7,YouTube,Yes,5.5,4.9
+888,21,Male,High School,Other,7.4,Facebook,Yes,5.3,5.5
+621,24,Male,Undergraduate,India,3.8,Facebook,No,6.3,6.8
+471,19,Male,Graduate,Other,7.4,LinkedIn,Yes,5.7,5.7
+709,22,Female,Undergraduate,Other,2.0,LinkedIn,No,7.5,8.3
+356,22,Male,Graduate,Other,7.3,Facebook,Yes,5.8,5.3
+142,24,Female,High School,Canada,5.8,Facebook,Yes,5.5,4.1
+468,22,Female,Undergraduate,Canada,7.2,Snapchat,Yes,5.1,4.6
+943,24,Female,Graduate,Other,3.6,LinkedIn,No,8.4,7.6
+680,21,Female,High School,Other,7.6,TikTok,Yes,5.2,4.1
+623,22,Female,Undergraduate,Other,3.8,TikTok,No,7.4,6.8
+757,21,Male,Undergraduate,Other,6.1,Twitter,Yes,5.8,4.4
+667,20,Female,Graduate,UK,2.9,TikTok,No,7.5,7.9
+882,24,Female,High School,Other,3.7,Instagram,Yes,8.8,9.0
+641,21,Female,Undergraduate,Australia,7.0,Facebook,Yes,5.9,4.1
+67,22,Female,Undergraduate,Other,3.9,Instagram,No,7.7,8.3
+36,19,Male,High School,Other,6.0,YouTube,Yes,5.6,4.2
+81,18,Male,Undergraduate,Other,2.3,TikTok,No,8.0,7.2
+51,22,Female,Undergraduate,Other,2.3,TikTok,Yes,8.0,8.5
+887,19,Male,High School,India,3.5,Twitter,Yes,6.0,7.0
+916,22,Male,High School,Other,7.8,Instagram,No,6.0,5.3
+886,19,Male,Undergraduate,UK,7.4,Instagram,Yes,5.2,4.7
+416,20,Female,Undergraduate,Germany,3.2,LinkedIn,No,8.9,7.5
+351,23,Male,Graduate,Australia,5.8,Twitter,Yes,4.8,5.0
+396,21,Female,Undergraduate,Other,6.9,Instagram,Yes,5.7,4.6
+839,22,Male,High School,Other,2.6,Twitter,No,8.2,7.2
+481,20,Male,Undergraduate,Other,2.3,YouTube,No,7.2,7.4
+988,23,Male,Graduate,USA,5.5,Instagram,Yes,5.9,4.3
+756,24,Male,Graduate,Australia,4.0,Snapchat,No,8.6,8.6
+349,19,Male,Undergraduate,Other,6.2,LinkedIn,No,4.7,4.3
+963,18,Male,Graduate,Other,4.7,Snapchat,No,6.1,6.6
+429,20,Female,Graduate,UK,3.7,YouTube,No,8.6,8.4
+855,19,Female,Undergraduate,Other,6.0,LinkedIn,No,6.0,5.8
+538,24,Male,Graduate,Other,7.8,TikTok,Yes,5.0,4.8
+413,20,Male,Graduate,USA,3.9,Instagram,No,6.6,6.8
+713,19,Female,Undergraduate,Other,7.2,YouTube,Yes,5.9,5.0
+96,21,Female,High School,Other,6.2,Twitter,No,5.4,5.4
+561,21,Female,Undergraduate,Canada,7.7,Twitter,Yes,5.6,4.5
+1,22,Male,High School,USA,4.0,Twitter,No,7.6,8.6
+647,22,Female,Undergraduate,USA,4.2,LinkedIn,No,6.8,6.5
+769,24,Female,Graduate,USA,3.9,LinkedIn,No,7.2,6.7
+527,21,Male,High School,UK,4.7,TikTok,Yes,6.2,6.3
+195,23,Male,High School,India,7.3,Snapchat,No,5.0,5.8
+139,23,Female,High School,India,6.4,TikTok,No,5.3,4.9
+38,20,Female,Graduate,Other,3.3,YouTube,No,7.4,7.1
+696,19,Female,Graduate,Other,6.7,Twitter,Yes,6.0,4.6
+235,21,Male,High School,Other,7.6,Facebook,Yes,5.1,4.3
+464,23,Male,High School,Other,4.5,Instagram,Yes,6.6,6.3
+303,19,Male,Graduate,Other,3.0,YouTube,No,7.1,8.3
+604,21,Female,High School,Other,6.2,Facebook,No,5.1,4.6
+727,18,Female,High School,Other,6.6,Instagram,Yes,5.4,5.4
+503,23,Male,Graduate,Other,8.4,Twitter,Yes,4.6,5.6
+409,23,Female,Undergraduate,UK,7.0,Snapchat,Yes,5.6,5.9
+848,23,Female,High School,USA,7.9,Snapchat,Yes,5.8,5.1
+600,24,Female,Graduate,Other,3.6,Facebook,No,8.4,8.9
+861,24,Male,Undergraduate,Canada,5.5,Snapchat,Yes,4.6,5.1
+243,21,Male,Graduate,Other,2.0,Instagram,No,7.1,7.7
+705,19,Male,High School,Australia,5.8,Facebook,Yes,7.4,6.2
+940,18,Female,Graduate,Other,6.3,YouTube,Yes,5.5,4.2
+127,19,Male,Undergraduate,Other,3.2,LinkedIn,No,9.0,8.3
+333,24,Female,High School,Other,1.7,YouTube,No,8.5,8.8
+55,18,Female,Graduate,Other,7.0,Snapchat,Yes,4.8,4.4
+339,22,Male,Undergraduate,Other,4.8,Snapchat,No,6.4,6.4
+307,24,Female,Undergraduate,Other,6.4,Facebook,No,5.0,4.5
+609,23,Male,Undergraduate,India,1.8,TikTok,Yes,8.7,7.5
+996,18,Male,Graduate,Other,7.0,Twitter,Yes,5.1,4.8
+820,22,Male,High School,Other,2.6,YouTube,No,7.7,8.4
+533,21,Female,High School,Other,1.7,Twitter,No,7.3,8.0
+911,20,Male,Graduate,Other,5.0,Instagram,No,7.0,6.8
+972,23,Male,Undergraduate,Other,6.0,Instagram,Yes,5.4,5.1
+905,19,Female,Undergraduate,Other,8.3,YouTube,No,5.9,4.7
+870,21,Male,High School,Other,3.7,LinkedIn,No,7.0,8.5
+381,18,Female,Graduate,Other,8.4,Snapchat,Yes,5.5,5.6
+359,19,Female,Undergraduate,Other,5.5,Twitter,No,5.1,5.3
+284,21,Male,Graduate,Other,8.0,YouTube,Yes,5.0,4.6
+547,22,Male,Undergraduate,Australia,2.2,YouTube,No,8.6,8.6
+502,22,Female,Undergraduate,Other,7.2,Twitter,Yes,5.9,5.3
+173,18,Male,Graduate,Other,5.9,Instagram,Yes,5.6,4.5
+884,24,Male,Undergraduate,Other,7.0,Instagram,Yes,5.8,5.1
+163,18,Female,Graduate,Germany,1.9,YouTube,No,7.7,7.8
+759,20,Male,Graduate,Other,6.0,YouTube,Yes,5.3,5.0
+923,18,Male,High School,India,5.3,Snapchat,No,6.3,6.6
+241,18,Male,Undergraduate,Other,7.1,Snapchat,No,4.6,5.2
+880,22,Female,Graduate,Other,6.2,YouTube,Yes,5.6,4.6
+1,19,Female,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,6.0
+2,22,Male,Graduate,India,2.1,Twitter,No,7.5,8.0
+3,20,Female,Undergraduate,USA,6.0,TikTok,Yes,5.0,5.0
+4,18,Male,High School,UK,3.0,YouTube,No,7.0,7.0
+5,21,Male,Graduate,Canada,4.5,Facebook,Yes,6.0,6.0
+6,19,Female,Undergraduate,Australia,7.2,Instagram,Yes,4.5,4.0
+7,23,Male,Graduate,Germany,1.5,LinkedIn,No,8.0,9.0
+8,20,Female,Undergraduate,Brazil,5.8,Snapchat,Yes,6.0,6.0
+9,18,Male,High School,Japan,4.0,TikTok,No,6.5,7.0
+10,21,Female,Graduate,South Korea,3.3,Instagram,No,7.0,7.0
+11,19,Male,Undergraduate,France,4.8,Snapchat,Yes,6.2,5.0
+12,20,Female,Undergraduate,Spain,5.5,TikTok,Yes,5.8,6.0
+13,22,Male,Graduate,Italy,2.8,LinkedIn,No,7.2,8.0
+14,18,Female,High School,Mexico,6.5,Instagram,Yes,5.5,5.0
+15,21,Male,Undergraduate,Russia,3.7,YouTube,No,6.8,7.0
+16,20,Female,Undergraduate,China,4.2,TikTok,Yes,6.0,6.0
+17,24,Male,Graduate,Sweden,2.0,LinkedIn,No,7.8,8.0
+18,19,Female,High School,Norway,5.0,Instagram,Yes,5.7,5.0
+19,21,Male,Undergraduate,Denmark,3.5,Facebook,No,6.7,7.0
+20,20,Female,Undergraduate,Netherlands,4.7,Snapchat,Yes,5.9,6.0
+21,18,Male,High School,Belgium,5.3,TikTok,Yes,5.5,5.0
+22,23,Female,Graduate,Switzerland,2.5,LinkedIn,No,7.3,8.0
+23,19,Male,Undergraduate,Austria,4.9,Instagram,Yes,5.8,6.0
+24,20,Female,Undergraduate,Portugal,5.7,TikTok,Yes,5.4,5.0
+25,22,Male,Graduate,Greece,3.2,Facebook,No,6.9,7.0
+26,19,Female,High School,Ireland,6.1,Instagram,Yes,5.2,5.0
+27,21,Male,Undergraduate,New Zealand,3.8,YouTube,No,6.6,7.0
+28,20,Female,Undergraduate,Singapore,4.4,TikTok,Yes,5.9,6.0
+29,24,Male,Graduate,Malaysia,2.2,LinkedIn,No,7.4,8.0
+30,19,Female,High School,Thailand,5.9,Instagram,Yes,5.3,5.0
+31,21,Male,Undergraduate,Vietnam,3.6,Facebook,No,6.7,7.0
+32,20,Female,Undergraduate,Philippines,4.8,Snapchat,Yes,5.7,6.0
+33,18,Male,High School,Indonesia,5.4,TikTok,Yes,5.4,5.0
+34,23,Female,Graduate,Taiwan,2.6,LinkedIn,No,7.2,8.0
+35,19,Male,Undergraduate,Hong Kong,4.7,Instagram,Yes,5.8,6.0
+36,20,Female,Undergraduate,Turkey,5.6,TikTok,Yes,5.5,5.0
+37,22,Male,Graduate,Israel,3.1,Facebook,No,6.8,7.0
+38,19,Female,High School,UAE,6.2,Instagram,Yes,5.1,5.0
+39,21,Male,Undergraduate,Egypt,3.9,YouTube,No,6.5,7.0
+40,20,Female,Undergraduate,Morocco,4.5,TikTok,Yes,5.8,6.0
+41,24,Male,Graduate,South Africa,2.3,LinkedIn,No,7.3,8.0
+42,19,Female,High School,Nigeria,5.8,Instagram,Yes,5.4,5.0
+43,21,Male,Undergraduate,Kenya,3.7,Facebook,No,6.6,7.0
+44,20,Female,Undergraduate,Ghana,4.6,Snapchat,Yes,5.7,6.0
+45,18,Male,High School,Argentina,5.5,TikTok,Yes,5.3,5.0
+46,23,Female,Graduate,Chile,2.7,LinkedIn,No,7.1,8.0
+47,19,Male,Undergraduate,Colombia,4.8,Instagram,Yes,5.9,6.0
+48,20,Female,Undergraduate,Peru,5.5,TikTok,Yes,5.6,5.0
+49,22,Male,Graduate,Venezuela,3.3,Facebook,No,6.7,7.0
+50,19,Female,High School,Ecuador,6.3,Instagram,Yes,5.2,5.0
+51,21,Male,Undergraduate,Uruguay,3.8,YouTube,No,6.4,7.0
+52,20,Female,Undergraduate,Paraguay,4.7,TikTok,Yes,5.8,6.0
+53,24,Male,Graduate,Bolivia,2.4,LinkedIn,No,7.2,8.0
+54,19,Female,High School,Costa Rica,5.7,Instagram,Yes,5.5,5.0
+55,21,Male,Undergraduate,Panama,3.6,Facebook,No,6.5,7.0
+56,20,Female,Undergraduate,Jamaica,4.9,Snapchat,Yes,5.6,6.0
+57,18,Male,High School,Trinidad,5.6,TikTok,Yes,5.2,5.0
+58,23,Female,Graduate,Bahamas,2.8,LinkedIn,No,7.0,8.0
+59,19,Male,Undergraduate,Iceland,4.6,Instagram,Yes,5.9,6.0
+60,20,Female,Undergraduate,Finland,5.4,TikTok,Yes,5.7,5.0
+61,22,Male,Graduate,Poland,3.1,Facebook,No,7.1,7.0
+62,19,Female,Undergraduate,Romania,5.6,Instagram,Yes,5.6,5.0
+63,20,Male,Undergraduate,Hungary,4.2,TikTok,Yes,6.0,6.0
+64,18,Female,High School,Czech Republic,6.1,Snapchat,Yes,5.2,4.0
+65,23,Male,Graduate,Slovakia,2.3,LinkedIn,No,7.4,8.0
+66,21,Female,Undergraduate,Croatia,4.8,Instagram,Yes,5.8,6.0
+67,20,Male,Undergraduate,Serbia,3.9,YouTube,No,6.5,7.0
+68,19,Female,High School,Slovenia,5.7,TikTok,Yes,5.4,5.0
+69,22,Male,Graduate,Bulgaria,2.8,LinkedIn,No,7.2,8.0
+70,20,Female,Undergraduate,Estonia,4.5,Instagram,Yes,5.9,6.0
+71,18,Male,High School,Latvia,5.4,Snapchat,Yes,5.5,5.0
+72,21,Female,Graduate,Lithuania,3.2,Facebook,No,6.8,7.0
+73,19,Male,Undergraduate,Ukraine,4.9,TikTok,Yes,5.7,6.0
+74,20,Female,Undergraduate,Moldova,5.8,Instagram,Yes,5.3,5.0
+75,23,Male,Graduate,Belarus,2.5,LinkedIn,No,7.3,8.0
+76,21,Female,Undergraduate,Kazakhstan,4.6,Snapchat,Yes,5.8,6.0
+77,19,Male,High School,Uzbekistan,5.5,TikTok,Yes,5.4,5.0
+78,22,Female,Graduate,Kyrgyzstan,2.9,Facebook,No,7.0,7.0
+79,20,Male,Undergraduate,Tajikistan,4.7,YouTube,Yes,5.9,6.0
+80,18,Female,High School,Armenia,5.9,Instagram,Yes,5.2,5.0
+81,21,Male,Graduate,Georgia,3.0,LinkedIn,No,7.1,8.0
+82,19,Female,Undergraduate,Azerbaijan,4.8,TikTok,Yes,5.7,6.0
+83,20,Male,Undergraduate,Cyprus,3.8,Facebook,No,6.6,7.0
+84,22,Female,Graduate,Malta,2.7,LinkedIn,No,7.2,8.0
+85,18,Male,High School,Luxembourg,5.6,Snapchat,Yes,5.3,5.0
+86,21,Female,Undergraduate,Monaco,4.5,Instagram,Yes,5.8,6.0
+87,19,Male,High School,Andorra,5.3,TikTok,Yes,5.5,5.0
+88,23,Female,Graduate,San Marino,2.6,LinkedIn,No,7.3,8.0
+89,20,Male,Undergraduate,Vatican City,4.4,YouTube,Yes,6.0,6.0
+90,18,Female,High School,Liechtenstein,5.8,Instagram,Yes,5.2,5.0
+91,22,Male,Graduate,Montenegro,2.9,Facebook,No,7.0,7.0
+92,19,Female,Undergraduate,Albania,4.7,TikTok,Yes,5.8,6.0
+93,21,Male,Undergraduate,North Macedonia,3.7,Snapchat,No,6.5,7.0
+94,20,Female,High School,Kosovo,5.5,Instagram,Yes,5.4,5.0
+95,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8.0
+96,19,Female,Undergraduate,Qatar,4.9,TikTok,Yes,5.7,6.0
+97,18,Male,High School,Kuwait,5.7,Snapchat,Yes,5.3,5.0
+98,22,Female,Graduate,Bahrain,2.8,LinkedIn,No,7.1,8.0
+99,20,Male,Undergraduate,Oman,4.6,Instagram,Yes,5.9,6.0
+100,21,Female,Undergraduate,Jordan,5.4,TikTok,Yes,5.5,5.0
+101,19,Male,High School,Lebanon,5.8,YouTube,Yes,5.2,5.0
+102,23,Female,Graduate,Iraq,2.5,LinkedIn,No,7.3,8.0
+103,20,Male,Undergraduate,Yemen,4.7,Facebook,Yes,5.8,6.0
+104,18,Female,High School,Syria,5.6,Instagram,Yes,5.4,5.0
+105,22,Male,Graduate,Afghanistan,2.9,LinkedIn,No,7.0,7.0
+106,19,Female,Undergraduate,Pakistan,4.8,TikTok,Yes,5.7,6.0
+107,21,Male,Undergraduate,Nepal,3.8,YouTube,No,6.6,7.0
+108,20,Female,High School,Bhutan,5.5,Snapchat,Yes,5.5,5.0
+109,23,Male,Graduate,Sri Lanka,2.6,LinkedIn,No,7.2,8.0
+110,19,Female,Undergraduate,Maldives,4.9,Instagram,Yes,5.8,6.0
+111,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5.0
+112,21,Female,Undergraduate,India,5.8,TikTok,Yes,5.9,6.0
+113,19,Male,Undergraduate,Nepal,4.9,Facebook,No,7.1,7.0
+114,22,Female,Graduate,Pakistan,5.5,Instagram,Yes,6.0,5.0
+115,20,Male,Undergraduate,Sri Lanka,5.2,TikTok,Yes,6.3,6.0
+116,19,Female,Undergraduate,Maldives,4.8,Instagram,No,7.2,8.0
+117,21,Male,Graduate,Bangladesh,6.0,Facebook,Yes,5.8,5.0
+118,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6.0
+119,22,Male,Graduate,Nepal,4.7,TikTok,No,7.3,7.0
+120,19,Female,Undergraduate,Pakistan,5.4,Instagram,Yes,6.2,5.0
+121,20,Male,Undergraduate,Sri Lanka,5.9,Facebook,Yes,5.9,6.0
+122,21,Female,Graduate,Maldives,4.6,Instagram,No,7.4,8.0
+123,19,Male,Undergraduate,Bangladesh,5.3,TikTok,Yes,6.3,5.0
+124,22,Female,Graduate,India,5.8,Instagram,Yes,5.8,6.0
+125,20,Male,Undergraduate,Nepal,4.5,Facebook,No,7.5,7.0
+126,21,Female,Graduate,Pakistan,5.2,Instagram,Yes,6.4,5.0
+127,19,Male,Undergraduate,Sri Lanka,5.7,TikTok,Yes,5.7,6.0
+128,20,Female,Undergraduate,Maldives,4.4,Instagram,No,7.6,8.0
+129,22,Male,Graduate,Bangladesh,5.1,Facebook,Yes,6.5,5.0
+130,21,Female,Graduate,India,5.6,Instagram,Yes,5.6,6.0
+131,19,Male,Undergraduate,Nepal,4.3,TikTok,No,7.7,7.0
+132,20,Female,Undergraduate,Pakistan,5.0,Instagram,Yes,6.6,5.0
+133,22,Male,Graduate,Sri Lanka,5.5,Facebook,Yes,5.5,6.0
+134,21,Female,Graduate,Maldives,4.2,Instagram,No,7.8,8.0
+135,19,Male,Undergraduate,Bangladesh,4.9,TikTok,Yes,6.7,5.0
+136,20,Female,Undergraduate,India,5.4,Instagram,Yes,5.4,6.0
+137,22,Male,Graduate,Nepal,4.1,Facebook,No,7.9,7.0
+138,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5.0
+139,19,Male,Undergraduate,Sri Lanka,5.3,TikTok,Yes,5.3,6.0
+140,20,Female,Undergraduate,Maldives,4.0,Instagram,No,8.0,8.0
+141,22,Male,Graduate,Bangladesh,4.7,Facebook,Yes,6.9,5.0
+142,21,Female,Graduate,India,5.2,Instagram,Yes,5.2,6.0
+143,19,Male,Undergraduate,Nepal,3.9,TikTok,No,8.1,7.0
+144,20,Female,Undergraduate,Pakistan,4.6,Instagram,Yes,7.0,5.0
+145,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6.0
+146,21,Female,Graduate,Maldives,3.8,Instagram,No,8.2,8.0
+147,19,Male,Undergraduate,Bangladesh,4.5,TikTok,Yes,7.1,5.0
+148,20,Female,Undergraduate,India,5.0,Instagram,Yes,5.0,6.0
+149,22,Male,Graduate,Nepal,3.7,Facebook,No,8.3,7.0
+150,21,Female,Graduate,Pakistan,4.4,Instagram,Yes,7.2,5.0
+151,19,Male,Undergraduate,Sri Lanka,4.9,TikTok,Yes,4.9,6.0
+152,20,Female,Undergraduate,Maldives,3.6,Instagram,No,8.4,8.0
+153,22,Male,Graduate,Bangladesh,4.3,Facebook,Yes,7.3,5.0
+154,21,Female,Graduate,India,4.8,Instagram,Yes,4.8,6.0
+155,19,Male,Undergraduate,Nepal,3.5,TikTok,No,8.5,7.0
+156,20,Female,Undergraduate,Pakistan,4.2,Instagram,Yes,7.4,5.0
+157,22,Male,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,6.0
+158,21,Female,Graduate,Maldives,3.4,Instagram,No,8.6,8.0
+159,19,Male,Undergraduate,Bangladesh,4.1,TikTok,Yes,7.5,5.0
+160,20,Female,Undergraduate,India,4.6,Instagram,Yes,4.6,6.0
+161,19,Female,Undergraduate,Bangladesh,5.3,Instagram,Yes,6.1,5.0
+162,21,Male,Graduate,India,4.8,Facebook,No,7.2,7.0
+163,20,Female,Undergraduate,Nepal,5.5,TikTok,Yes,5.9,6.0
+164,22,Male,Graduate,Pakistan,4.7,Instagram,Yes,6.3,5.0
+165,19,Female,Undergraduate,Sri Lanka,5.1,Facebook,No,7.0,7.0
+166,21,Male,Graduate,Maldives,5.4,TikTok,Yes,6.0,6.0
+167,20,Female,Undergraduate,Bangladesh,4.9,Instagram,Yes,6.4,5.0
+168,22,Male,Graduate,India,5.2,Facebook,No,7.1,7.0
+169,19,Female,Undergraduate,Nepal,5.6,TikTok,Yes,5.8,6.0
+170,21,Male,Graduate,Pakistan,4.6,Instagram,Yes,6.5,5.0
+171,20,Female,Undergraduate,Sri Lanka,5.0,Facebook,No,7.3,7.0
+172,22,Male,Graduate,Maldives,5.3,TikTok,Yes,5.7,6.0
+173,19,Female,Undergraduate,Bangladesh,4.8,Instagram,Yes,6.6,5.0
+174,21,Male,Graduate,India,5.1,Facebook,No,7.4,7.0
+175,20,Female,Undergraduate,Nepal,5.7,TikTok,Yes,5.6,6.0
+176,22,Male,Graduate,Pakistan,4.5,Instagram,Yes,6.7,5.0
+177,19,Female,Undergraduate,Sri Lanka,4.9,Facebook,No,7.5,7.0
+178,21,Male,Graduate,Maldives,5.2,TikTok,Yes,5.5,6.0
+179,20,Female,Undergraduate,Bangladesh,4.7,Instagram,Yes,6.8,5.0
+180,22,Male,Graduate,India,5.0,Facebook,No,7.6,7.0
+181,19,Female,Undergraduate,Nepal,5.8,TikTok,Yes,5.4,6.0
+182,21,Male,Graduate,Pakistan,4.4,Instagram,Yes,6.9,5.0
+183,20,Female,Undergraduate,Sri Lanka,4.8,Facebook,No,7.7,7.0
+184,22,Male,Graduate,Maldives,5.1,TikTok,Yes,5.3,6.0
+185,19,Female,Undergraduate,Bangladesh,4.6,Instagram,Yes,7.0,5.0
+186,21,Male,Graduate,India,4.9,Facebook,No,7.8,7.0
+187,20,Female,Undergraduate,Nepal,5.9,TikTok,Yes,5.2,6.0
+188,22,Male,Graduate,Pakistan,4.3,Instagram,Yes,7.1,5.0
+189,19,Female,Undergraduate,Sri Lanka,4.7,Facebook,No,7.9,7.0
+190,21,Male,Graduate,Maldives,5.0,TikTok,Yes,5.1,6.0
+191,20,Female,Undergraduate,Bangladesh,4.5,Instagram,Yes,7.2,5.0
+192,22,Male,Graduate,India,4.8,Facebook,No,8.0,7.0
+193,19,Female,Undergraduate,Nepal,6.0,TikTok,Yes,5.0,6.0
+194,21,Male,Graduate,Pakistan,4.2,Instagram,Yes,7.3,5.0
+195,20,Female,Undergraduate,Sri Lanka,4.6,Facebook,No,8.1,7.0
+196,22,Male,Graduate,Maldives,4.9,TikTok,Yes,4.9,6.0
+197,19,Female,Undergraduate,Bangladesh,4.4,Instagram,Yes,7.4,5.0
+198,21,Male,Graduate,India,4.7,Facebook,No,8.2,7.0
+199,20,Female,Undergraduate,Nepal,6.1,TikTok,Yes,4.8,6.0
+200,22,Male,Graduate,Pakistan,4.1,Instagram,Yes,7.5,5.0
+201,19,Female,Undergraduate,Sri Lanka,4.5,Facebook,No,8.3,7.0
+202,21,Male,Graduate,Maldives,4.8,TikTok,Yes,4.7,6.0
+203,20,Female,Undergraduate,Bangladesh,4.3,Instagram,Yes,7.6,5.0
+204,22,Male,Graduate,India,4.6,Facebook,No,8.4,7.0
+205,19,Female,Undergraduate,Nepal,6.2,TikTok,Yes,4.6,6.0
+206,21,Male,Graduate,Pakistan,4.0,Instagram,Yes,7.7,5.0
+207,20,Female,Undergraduate,Sri Lanka,4.4,Facebook,No,8.5,7.0
+208,22,Male,Graduate,Maldives,4.7,TikTok,Yes,4.5,6.0
+209,19,Female,Undergraduate,Bangladesh,4.2,Instagram,Yes,7.8,5.0
+210,21,Male,Graduate,India,4.5,Facebook,No,8.6,7.0
+211,20,Female,Undergraduate,Nepal,6.3,TikTok,Yes,4.4,6.0
+212,22,Male,Graduate,Pakistan,3.9,Instagram,Yes,7.9,5.0
+213,19,Female,Undergraduate,Sri Lanka,4.3,Facebook,No,8.7,7.0
+214,21,Male,Graduate,Maldives,4.6,TikTok,Yes,4.3,6.0
+215,20,Female,Undergraduate,Bangladesh,4.1,Instagram,Yes,8.0,5.0
+216,22,Male,Graduate,India,4.4,Facebook,No,8.8,7.0
+217,19,Female,Undergraduate,Nepal,6.4,TikTok,Yes,4.2,6.0
+218,21,Male,Graduate,Pakistan,3.8,Instagram,Yes,8.1,5.0
+219,20,Female,Undergraduate,Sri Lanka,4.2,Facebook,No,8.9,7.0
+220,22,Male,Graduate,Maldives,4.5,TikTok,Yes,4.1,6.0
+221,19,Female,Undergraduate,USA,6.5,Instagram,Yes,6.0,5.0
+222,21,Male,Graduate,UK,5.8,TikTok,Yes,6.5,6.0
+223,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.5,8.0
+224,22,Male,Graduate,Germany,4.2,Facebook,No,7.8,7.0
+225,19,Female,Undergraduate,Japan,3.8,LINE,No,7.9,8.0
+226,21,Male,Graduate,Italy,5.5,Instagram,Yes,6.8,6.0
+227,20,Female,Undergraduate,South Korea,5.2,KakaoTalk,Yes,6.5,6.0
+228,22,Male,Graduate,Russia,4.8,VKontakte,No,7.2,7.0
+229,19,Female,Undergraduate,USA,7.0,TikTok,Yes,5.8,4.0
+230,21,Male,Graduate,UK,5.5,Instagram,Yes,6.7,6.0
+231,20,Female,Undergraduate,Australia,4.7,Facebook,No,7.4,7.0
+232,22,Male,Graduate,Germany,4.0,Instagram,No,7.9,8.0
+233,19,Female,Undergraduate,Japan,3.5,LINE,No,8.0,8.0
+234,21,Male,Graduate,Italy,5.7,TikTok,Yes,6.5,5.0
+235,20,Female,Undergraduate,South Korea,5.0,KakaoTalk,Yes,6.8,6.0
+236,22,Male,Graduate,Russia,4.5,VKontakte,No,7.4,7.0
+237,19,Female,Undergraduate,USA,6.8,Instagram,Yes,5.9,4.0
+238,21,Male,Graduate,UK,5.6,Facebook,Yes,6.6,6.0
+239,20,Female,Undergraduate,Australia,4.6,Instagram,No,7.3,7.0
+240,22,Male,Graduate,Germany,4.1,Facebook,No,7.7,8.0
+241,19,Female,Undergraduate,Japan,3.7,LINE,No,7.8,8.0
+242,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5.0
+243,20,Female,Undergraduate,South Korea,5.1,KakaoTalk,Yes,6.6,6.0
+244,22,Male,Graduate,Russia,4.7,VKontakte,No,7.3,7.0
+245,19,Female,Undergraduate,USA,6.9,TikTok,Yes,5.7,4.0
+246,21,Male,Graduate,UK,5.7,Instagram,Yes,6.4,6.0
+247,20,Female,Undergraduate,Australia,4.8,Facebook,No,7.2,7.0
+248,22,Male,Graduate,Germany,3.9,Instagram,No,7.8,8.0
+249,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8.0
+250,21,Male,Graduate,Italy,5.6,TikTok,Yes,6.6,5.0
+251,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,6.9,6.0
+252,22,Male,Graduate,Russia,4.6,VKontakte,No,7.5,7.0
+253,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.8,4.0
+254,21,Male,Graduate,UK,5.4,Facebook,Yes,6.5,6.0
+255,20,Female,Undergraduate,Australia,4.4,Instagram,No,7.4,7.0
+256,22,Male,Graduate,Germany,4.0,Facebook,No,7.6,8.0
+257,19,Female,Undergraduate,Japan,3.4,LINE,No,8.2,8.0
+258,21,Male,Graduate,Italy,5.3,Instagram,Yes,6.8,5.0
+259,20,Female,Undergraduate,South Korea,5.0,KakaoTalk,Yes,6.7,6.0
+260,22,Male,Graduate,Russia,4.4,VKontakte,No,7.6,7.0
+261,19,Female,Undergraduate,USA,6.6,TikTok,Yes,5.6,4.0
+262,21,Male,Graduate,UK,5.3,Instagram,Yes,6.3,6.0
+263,20,Female,Undergraduate,Australia,4.3,Facebook,No,7.5,7.0
+264,22,Male,Graduate,Germany,3.8,Instagram,No,7.7,8.0
+265,19,Female,Undergraduate,Japan,3.3,LINE,No,8.3,8.0
+266,21,Male,Graduate,Italy,5.2,TikTok,Yes,6.9,5.0
+267,20,Female,Undergraduate,South Korea,4.8,KakaoTalk,Yes,7.0,6.0
+268,22,Male,Graduate,Russia,4.3,VKontakte,No,7.7,7.0
+269,19,Female,Undergraduate,USA,6.4,Instagram,Yes,5.7,4.0
+270,21,Male,Graduate,UK,5.2,Facebook,Yes,6.4,6.0
+271,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.3,7.0
+272,22,Male,Graduate,Germany,3.7,Facebook,No,7.8,8.0
+273,19,Female,Undergraduate,Japan,3.2,LINE,No,8.4,8.0
+274,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5.0
+275,20,Female,Undergraduate,South Korea,4.7,KakaoTalk,Yes,7.1,6.0
+276,22,Male,Graduate,Russia,4.2,VKontakte,No,7.8,7.0
+277,19,Female,Undergraduate,USA,6.6,TikTok,Yes,5.5,4.0
+278,21,Male,Graduate,UK,5.1,Instagram,Yes,6.5,6.0
+279,20,Female,Undergraduate,Australia,4.4,Facebook,No,7.4,7.0
+280,22,Male,Graduate,Germany,3.6,Instagram,No,7.9,8.0
+281,19,Female,Undergraduate,Japan,3.1,LINE,No,8.5,8.0
+282,21,Male,Graduate,Italy,5.3,TikTok,Yes,6.8,5.0
+283,20,Female,Undergraduate,South Korea,4.6,KakaoTalk,Yes,7.2,6.0
+284,22,Male,Graduate,Russia,4.1,VKontakte,No,7.9,7.0
+285,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.4,4.0
+286,21,Male,Graduate,UK,5.0,Facebook,Yes,6.6,6.0
+287,20,Female,Undergraduate,Australia,4.3,Instagram,No,7.5,7.0
+288,22,Male,Graduate,Germany,3.5,Facebook,No,8.0,8.0
+289,19,Female,Undergraduate,Japan,3.0,LINE,No,8.6,8.0
+290,21,Male,Graduate,Italy,5.2,Instagram,Yes,6.9,5.0
+291,20,Female,Undergraduate,South Korea,4.5,KakaoTalk,Yes,7.3,6.0
+292,22,Male,Graduate,Russia,4.0,VKontakte,No,8.0,7.0
+293,19,Female,Undergraduate,USA,6.8,TikTok,Yes,5.3,4.0
+294,21,Male,Graduate,UK,4.9,Instagram,Yes,6.7,6.0
+295,20,Female,Undergraduate,Australia,4.2,Facebook,No,7.6,7.0
+296,22,Male,Graduate,Germany,3.4,Instagram,No,8.1,8.0
+297,19,Female,Undergraduate,Japan,2.9,LINE,No,8.7,8.0
+298,21,Male,Graduate,Italy,5.1,TikTok,Yes,7.0,5.0
+299,20,Female,Undergraduate,South Korea,4.4,KakaoTalk,Yes,7.4,6.0
+300,22,Male,Graduate,Russia,3.9,VKontakte,No,8.1,7.0
+301,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.2,4.0
+302,21,Male,Graduate,UK,4.8,Facebook,Yes,6.8,6.0
+303,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.7,7.0
+304,22,Male,Graduate,Germany,3.3,Facebook,No,8.2,8.0
+305,19,Female,Undergraduate,Japan,2.8,LINE,No,8.8,8.0
+306,21,Male,Graduate,Italy,5.0,Instagram,Yes,7.1,5.0
+307,20,Female,Undergraduate,South Korea,4.3,KakaoTalk,Yes,7.5,6.0
+308,22,Male,Graduate,Russia,3.8,VKontakte,No,8.2,7.0
+309,19,Female,Undergraduate,USA,7.0,TikTok,Yes,5.1,4.0
+310,21,Male,Graduate,UK,4.7,Instagram,Yes,6.9,6.0
+311,20,Female,Undergraduate,Australia,4.0,Facebook,No,7.8,7.0
+312,22,Male,Graduate,Germany,3.2,Instagram,No,8.3,8.0
+313,19,Female,Undergraduate,Japan,2.7,LINE,No,8.9,8.0
+314,21,Male,Graduate,Italy,4.9,TikTok,Yes,7.2,5.0
+315,20,Female,Undergraduate,South Korea,4.2,KakaoTalk,Yes,7.6,6.0
+316,22,Male,Graduate,Russia,3.7,VKontakte,No,8.3,7.0
+317,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5.0,4.0
+318,21,Male,Graduate,UK,4.6,Facebook,Yes,7.0,6.0
+319,20,Female,Undergraduate,Australia,3.9,Instagram,No,7.9,7.0
+320,22,Male,Graduate,Germany,3.1,Facebook,No,8.4,8.0
+321,19,Female,Undergraduate,Spain,5.2,Instagram,Yes,6.8,6.0
+322,21,Male,Graduate,Denmark,4.1,Facebook,No,7.8,8.0
+323,20,Female,Undergraduate,Ireland,5.0,Instagram,Yes,7.0,7.0
+324,22,Male,Graduate,India,5.8,WhatsApp,Yes,6.5,5.0
+325,19,Female,Undergraduate,Switzerland,4.0,Instagram,No,7.9,8.0
+326,21,Male,Graduate,Turkey,5.5,Instagram,Yes,6.7,6.0
+327,20,Female,Undergraduate,USA,6.8,TikTok,Yes,5.5,5.0
+328,22,Male,Graduate,Mexico,5.6,WhatsApp,Yes,6.6,6.0
+329,19,Female,Undergraduate,France,4.5,Instagram,No,7.5,7.0
+330,21,Male,Graduate,Canada,5.3,Instagram,Yes,6.9,6.0
+331,20,Female,Undergraduate,Spain,5.1,TikTok,Yes,6.7,6.0
+332,22,Male,Graduate,Denmark,3.9,Facebook,No,7.9,8.0
+333,19,Female,Undergraduate,Ireland,4.8,Instagram,Yes,7.1,7.0
+334,21,Male,Graduate,India,5.9,WhatsApp,Yes,6.4,5.0
+335,20,Female,Undergraduate,Switzerland,3.8,Instagram,No,8.0,8.0
+336,22,Male,Graduate,Turkey,5.4,TikTok,Yes,6.8,6.0
+337,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.4,5.0
+338,21,Male,Graduate,Mexico,5.7,WhatsApp,Yes,6.5,6.0
+339,20,Female,Undergraduate,France,4.4,Instagram,No,7.6,7.0
+340,22,Male,Graduate,Canada,5.2,TikTok,Yes,7.0,6.0
+341,19,Female,Undergraduate,Spain,5.0,Instagram,Yes,6.9,6.0
+342,21,Male,Graduate,Denmark,3.8,Facebook,No,8.0,8.0
+343,20,Female,Undergraduate,Ireland,4.7,TikTok,Yes,7.2,7.0
+344,22,Male,Graduate,India,6.0,WhatsApp,Yes,6.3,5.0
+345,19,Female,Undergraduate,Switzerland,3.7,Instagram,No,8.1,8.0
+346,21,Male,Graduate,Turkey,5.3,Instagram,Yes,6.9,6.0
+347,20,Female,Undergraduate,USA,7.0,TikTok,Yes,5.3,5.0
+348,22,Male,Graduate,Mexico,5.8,WhatsApp,Yes,6.4,6.0
+349,19,Female,Undergraduate,France,4.3,Instagram,No,7.7,7.0
+350,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6.0
+351,20,Female,Undergraduate,Spain,4.9,TikTok,Yes,7.0,6.0
+352,22,Male,Graduate,Denmark,3.7,Facebook,No,8.1,8.0
+353,19,Female,Undergraduate,Ireland,4.6,Instagram,Yes,7.3,7.0
+354,21,Male,Graduate,India,6.1,WhatsApp,Yes,6.2,5.0
+355,20,Female,Undergraduate,Switzerland,3.6,Instagram,No,8.2,8.0
+356,22,Male,Graduate,Turkey,5.2,TikTok,Yes,7.0,6.0
+357,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5.2,5.0
+358,21,Male,Graduate,Mexico,5.9,WhatsApp,Yes,6.3,6.0
+359,20,Female,Undergraduate,France,4.2,Instagram,No,7.8,7.0
+360,22,Male,Graduate,Canada,5.0,TikTok,Yes,7.2,6.0
+361,19,Female,Undergraduate,Spain,4.8,Instagram,Yes,7.1,6.0
+362,21,Male,Graduate,Denmark,3.6,Facebook,No,8.2,8.0
+363,20,Female,Undergraduate,Ireland,4.5,TikTok,Yes,7.4,7.0
+364,22,Male,Graduate,India,6.2,WhatsApp,Yes,6.1,5.0
+365,19,Female,Undergraduate,Switzerland,3.5,Instagram,No,8.3,8.0
+366,21,Male,Graduate,Turkey,5.1,Instagram,Yes,7.1,6.0
+367,20,Female,Undergraduate,USA,7.2,TikTok,Yes,5.1,5.0
+368,22,Male,Graduate,Mexico,6.0,WhatsApp,Yes,6.2,6.0
+369,19,Female,Undergraduate,France,4.1,Instagram,No,7.9,7.0
+370,21,Male,Graduate,Canada,4.9,Instagram,Yes,7.3,6.0
+371,20,Female,Undergraduate,Spain,4.7,TikTok,Yes,7.2,6.0
+372,22,Male,Graduate,Denmark,3.5,Facebook,No,8.3,8.0
+373,19,Female,Undergraduate,Ireland,4.4,Instagram,Yes,7.5,7.0
+374,21,Male,Graduate,India,6.3,WhatsApp,Yes,6.0,5.0
+375,20,Female,Undergraduate,Switzerland,3.4,Instagram,No,8.4,8.0
+376,22,Male,Graduate,Turkey,5.0,TikTok,Yes,7.2,6.0
+377,19,Female,Undergraduate,USA,7.3,Instagram,Yes,5.0,5.0
+378,21,Male,Graduate,Mexico,6.1,WhatsApp,Yes,6.1,6.0
+379,20,Female,Undergraduate,France,4.0,Instagram,No,8.0,7.0
+380,22,Male,Graduate,Canada,4.8,TikTok,Yes,7.4,6.0
+381,19,Female,Undergraduate,Spain,4.6,Instagram,Yes,7.3,6.0
+382,21,Male,Graduate,Denmark,3.4,Facebook,No,8.4,8.0
+383,20,Female,Undergraduate,Ireland,4.3,TikTok,Yes,7.6,7.0
+384,22,Male,Graduate,India,6.4,WhatsApp,Yes,5.9,5.0
+385,19,Female,Undergraduate,Switzerland,3.3,Instagram,No,8.5,8.0
+386,21,Male,Graduate,Turkey,4.9,Instagram,Yes,7.3,6.0
+387,20,Female,Undergraduate,USA,7.4,TikTok,Yes,4.9,5.0
+388,22,Male,Graduate,Mexico,6.2,WhatsApp,Yes,6.0,6.0
+389,19,Female,Undergraduate,France,3.9,Instagram,No,8.1,7.0
+390,21,Male,Graduate,Canada,4.7,Instagram,Yes,7.5,6.0
+391,20,Female,Undergraduate,Spain,4.5,TikTok,Yes,7.4,6.0
+392,22,Male,Graduate,Denmark,3.3,Facebook,No,8.5,8.0
+393,19,Female,Undergraduate,Ireland,4.2,Instagram,Yes,7.7,7.0
+394,21,Male,Graduate,India,6.5,WhatsApp,Yes,5.8,5.0
+395,20,Female,Undergraduate,Switzerland,3.2,Instagram,No,8.6,8.0
+396,22,Male,Graduate,Turkey,4.8,TikTok,Yes,7.4,6.0
+397,19,Female,Undergraduate,USA,7.5,Instagram,Yes,4.8,5.0
+398,21,Male,Graduate,Mexico,6.3,WhatsApp,Yes,5.9,6.0
+399,20,Female,Undergraduate,France,3.8,Instagram,No,8.2,7.0
+400,22,Male,Graduate,Canada,4.6,TikTok,Yes,7.6,6.0
+401,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6.0
+402,21,Male,Graduate,Denmark,3.2,Facebook,No,8.6,8.0
+403,20,Female,Undergraduate,Ireland,4.1,TikTok,Yes,7.8,7.0
+404,22,Male,Graduate,India,6.6,WhatsApp,Yes,5.7,5.0
+405,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8.0
+406,21,Male,Graduate,Turkey,4.7,Instagram,Yes,7.5,6.0
+407,20,Female,Undergraduate,USA,7.6,TikTok,Yes,4.7,5.0
+408,22,Male,Graduate,Mexico,6.4,WhatsApp,Yes,5.8,6.0
+409,19,Female,Undergraduate,France,3.7,Instagram,No,8.3,7.0
+410,21,Male,Graduate,Canada,4.5,Instagram,Yes,7.7,6.0
+411,20,Female,Undergraduate,Spain,4.3,TikTok,Yes,7.6,6.0
+412,22,Male,Graduate,Denmark,3.1,Facebook,No,8.7,8.0
+413,19,Female,Undergraduate,Ireland,4.0,Instagram,Yes,7.9,7.0
+414,21,Male,Graduate,India,6.7,WhatsApp,Yes,5.6,5.0
+415,20,Female,Undergraduate,Switzerland,3.0,Instagram,No,8.8,8.0
+416,22,Male,Graduate,Turkey,4.6,TikTok,Yes,7.6,6.0
+417,19,Female,Undergraduate,USA,7.7,Instagram,Yes,4.6,5.0
+418,21,Male,Graduate,Mexico,6.5,WhatsApp,Yes,5.7,6.0
+419,20,Female,Undergraduate,France,3.6,Instagram,No,8.4,7.0
+420,22,Male,Graduate,Canada,4.4,TikTok,Yes,7.8,6.0
+421,19,Female,Undergraduate,Spain,4.2,Instagram,Yes,7.7,6.0
+422,21,Male,Graduate,Denmark,3.0,Facebook,No,8.8,8.0
+423,20,Female,Undergraduate,Ireland,3.9,TikTok,Yes,8.0,7.0
+424,22,Male,Graduate,India,6.8,WhatsApp,Yes,5.5,5.0
+425,19,Female,Undergraduate,Switzerland,2.9,Instagram,No,8.9,8.0
+426,21,Male,Graduate,Turkey,4.5,Instagram,Yes,7.7,6.0
+427,20,Female,Undergraduate,USA,7.8,TikTok,Yes,4.5,5.0
+428,22,Male,Graduate,Mexico,6.6,WhatsApp,Yes,5.6,6.0
+429,19,Female,Undergraduate,France,3.5,Instagram,No,8.5,7.0
+430,21,Male,Graduate,Canada,4.3,Instagram,Yes,7.9,6.0
+431,20,Female,Undergraduate,Spain,4.1,TikTok,Yes,7.8,6.0
+432,22,Male,Graduate,Denmark,2.9,Facebook,No,8.9,8.0
+433,19,Female,Undergraduate,Ireland,3.8,Instagram,Yes,8.1,7.0
+434,21,Male,Graduate,India,6.9,WhatsApp,Yes,5.4,5.0
+435,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9.0,8.0
+436,22,Male,Graduate,Turkey,4.4,TikTok,Yes,7.8,6.0
+437,19,Female,Undergraduate,USA,7.9,Instagram,Yes,4.4,5.0
+438,21,Male,Graduate,Mexico,6.7,WhatsApp,Yes,5.5,6.0
+439,20,Female,Undergraduate,France,3.4,Instagram,No,8.6,7.0
+440,22,Male,Graduate,Canada,4.2,TikTok,Yes,8.0,6.0
+441,19,Female,Undergraduate,Spain,4.0,Instagram,Yes,7.9,6.0
+442,21,Male,Graduate,Denmark,2.8,Facebook,No,9.0,8.0
+443,20,Female,Undergraduate,Ireland,3.7,TikTok,Yes,8.2,7.0
+444,22,Male,Graduate,India,7.0,WhatsApp,Yes,5.3,5.0
+445,19,Female,Undergraduate,Switzerland,2.7,Instagram,No,9.1,8.0
+446,21,Male,Graduate,Turkey,4.3,Instagram,Yes,7.9,6.0
+447,20,Female,Undergraduate,USA,8.0,TikTok,Yes,4.3,5.0
+448,22,Male,Graduate,Mexico,6.8,WhatsApp,Yes,5.4,6.0
+449,19,Female,Undergraduate,France,3.3,Instagram,No,8.7,7.0
+450,21,Male,Graduate,Canada,4.1,Instagram,Yes,8.1,6.0
+451,20,Female,Undergraduate,Spain,3.9,TikTok,Yes,8.0,6.0
+452,22,Male,Graduate,Denmark,2.7,Facebook,No,9.1,8.0
+453,19,Female,Undergraduate,Ireland,3.6,Instagram,Yes,8.3,7.0
+454,21,Male,Graduate,India,7.1,WhatsApp,Yes,5.2,5.0
+455,20,Female,Undergraduate,Switzerland,2.6,Instagram,No,9.2,8.0
+456,22,Male,Graduate,Turkey,4.2,TikTok,Yes,8.0,6.0
+457,19,Female,Undergraduate,USA,8.1,Instagram,Yes,4.2,5.0
+458,21,Male,Graduate,Mexico,6.9,WhatsApp,Yes,5.3,6.0
+459,20,Female,Undergraduate,France,3.2,Instagram,No,8.8,7.0
+460,22,Male,Graduate,Canada,4.0,TikTok,Yes,8.2,6.0
+461,19,Female,Undergraduate,Spain,3.8,Instagram,Yes,8.1,6.0
+462,21,Male,Graduate,Denmark,2.6,Facebook,No,9.2,8.0
+463,20,Female,Undergraduate,Ireland,3.5,TikTok,Yes,8.4,7.0
+464,22,Male,Graduate,India,7.2,WhatsApp,Yes,5.1,5.0
+465,19,Female,Undergraduate,Switzerland,2.5,Instagram,No,9.3,8.0
+466,21,Male,Graduate,Turkey,4.1,Instagram,Yes,8.1,6.0
+467,20,Female,Undergraduate,USA,8.2,TikTok,Yes,4.1,5.0
+468,22,Male,Graduate,Mexico,7.0,WhatsApp,Yes,5.2,6.0
+469,19,Female,Undergraduate,France,3.1,Instagram,No,8.9,7.0
+470,21,Male,Graduate,Canada,3.9,Instagram,Yes,8.3,6.0
+471,20,Female,Undergraduate,Spain,3.7,TikTok,Yes,8.2,6.0
+472,22,Male,Graduate,Denmark,2.5,Facebook,No,9.3,8.0
+473,19,Female,Undergraduate,Ireland,3.4,Instagram,Yes,8.5,7.0
+474,21,Male,Graduate,India,7.3,WhatsApp,Yes,5.0,5.0
+475,20,Female,Undergraduate,Switzerland,2.4,Instagram,No,9.4,8.0
+476,22,Male,Graduate,Turkey,4.0,TikTok,Yes,8.2,6.0
+477,19,Female,Undergraduate,USA,8.3,Instagram,Yes,4.0,5.0
+478,21,Male,Graduate,Mexico,7.1,WhatsApp,Yes,5.1,6.0
+479,20,Female,Undergraduate,France,3.0,Instagram,No,9.0,7.0
+480,22,Male,Graduate,Canada,3.8,TikTok,Yes,8.4,6.0
+481,19,Female,Undergraduate,Spain,3.6,Instagram,Yes,8.3,6.0
+482,21,Male,Graduate,Denmark,2.4,Facebook,No,9.4,8.0
+483,20,Female,Undergraduate,Ireland,3.3,TikTok,Yes,8.6,7.0
+484,22,Male,Graduate,India,7.4,WhatsApp,Yes,4.9,5.0
+485,19,Female,Undergraduate,Switzerland,2.3,Instagram,No,9.5,8.0
+486,21,Male,Graduate,Turkey,3.9,Instagram,Yes,8.3,6.0
+487,20,Female,Undergraduate,USA,8.4,TikTok,Yes,3.9,5.0
+488,22,Male,Graduate,Mexico,7.2,WhatsApp,Yes,5.0,6.0
+489,19,Female,Undergraduate,France,2.9,Instagram,No,9.1,7.0
+490,21,Male,Graduate,Canada,3.7,Instagram,Yes,8.5,6.0
+491,20,Female,Undergraduate,Spain,3.5,TikTok,Yes,8.4,6.0
+492,22,Male,Graduate,Denmark,2.3,Facebook,No,9.5,8.0
+493,19,Female,Undergraduate,Ireland,3.2,Instagram,Yes,8.7,7.0
+494,21,Male,Graduate,India,7.5,WhatsApp,Yes,4.8,5.0
+495,20,Female,Undergraduate,Switzerland,2.2,Instagram,No,9.6,8.0
+496,22,Male,Graduate,Turkey,3.8,TikTok,Yes,8.4,6.0
+497,19,Female,Undergraduate,USA,8.5,Instagram,Yes,3.8,5.0
+498,21,Male,Graduate,Mexico,7.3,WhatsApp,Yes,4.9,6.0
+499,20,Female,Undergraduate,France,2.8,Instagram,No,9.2,7.0
+500,22,Male,Graduate,Canada,3.6,TikTok,Yes,8.6,6.0
+501,19,Female,Undergraduate,Brazil,6.2,WhatsApp,Yes,6.3,6.0
+502,21,Male,Graduate,China,4.5,WeChat,No,7.8,7.0
+503,20,Female,Undergraduate,Netherlands,3.8,Instagram,No,8.2,8.0
+504,22,Male,Graduate,New Zealand,4.7,Instagram,Yes,7.5,7.0
+505,19,Female,Undergraduate,Singapore,5.1,TikTok,Yes,7.0,6.0
+506,21,Male,Graduate,Malaysia,5.5,WhatsApp,Yes,6.8,6.0
+507,20,Female,Undergraduate,UAE,6.5,Instagram,Yes,6.5,5.0
+508,22,Male,Graduate,Poland,4.2,Facebook,No,7.9,7.0
+509,19,Female,Undergraduate,India,6.8,WhatsApp,Yes,6.0,5.0
+510,21,Male,Graduate,Canada,4.8,Instagram,Yes,7.4,7.0
+511,20,Female,Undergraduate,Brazil,6.1,Instagram,Yes,6.4,6.0
+512,22,Male,Graduate,China,4.4,WeChat,No,7.9,7.0
+513,19,Female,Undergraduate,Netherlands,3.7,TikTok,No,8.3,8.0
+514,21,Male,Graduate,New Zealand,4.6,Instagram,Yes,7.6,7.0
+515,20,Female,Undergraduate,Singapore,5.2,TikTok,Yes,6.9,6.0
+516,22,Male,Graduate,Malaysia,5.6,WhatsApp,Yes,6.7,6.0
+517,19,Female,Undergraduate,UAE,6.6,Instagram,Yes,6.4,5.0
+518,21,Male,Graduate,Poland,4.1,Facebook,No,8.0,7.0
+519,20,Female,Undergraduate,India,6.9,WhatsApp,Yes,5.9,5.0
+520,22,Male,Graduate,Canada,4.7,TikTok,Yes,7.5,7.0
+521,19,Female,Undergraduate,Brazil,6.0,WhatsApp,Yes,6.5,6.0
+522,21,Male,Graduate,China,4.3,WeChat,No,8.0,7.0
+523,20,Female,Undergraduate,Netherlands,3.6,Instagram,No,8.4,8.0
+524,22,Male,Graduate,New Zealand,4.5,Facebook,Yes,7.7,7.0
+525,19,Female,Undergraduate,Singapore,5.3,TikTok,Yes,6.8,6.0
+526,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6.0
+527,20,Female,Undergraduate,UAE,6.7,Instagram,Yes,6.3,5.0
+528,22,Male,Graduate,Poland,4.0,Facebook,No,8.1,7.0
+529,19,Female,Undergraduate,India,7.0,WhatsApp,Yes,5.8,5.0
+530,21,Male,Graduate,Canada,4.6,Instagram,Yes,7.6,7.0
+531,20,Female,Undergraduate,Brazil,5.9,TikTok,Yes,6.6,6.0
+532,22,Male,Graduate,China,4.2,WeChat,No,8.1,7.0
+533,19,Female,Undergraduate,Netherlands,3.5,Instagram,No,8.5,8.0
+534,21,Male,Graduate,New Zealand,4.4,Facebook,Yes,7.8,7.0
+535,20,Female,Undergraduate,Singapore,5.4,TikTok,Yes,6.7,6.0
+536,22,Male,Graduate,Malaysia,5.8,WhatsApp,Yes,6.5,6.0
+537,19,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.2,5.0
+538,21,Male,Graduate,Poland,3.9,Facebook,No,8.2,7.0
+539,20,Female,Undergraduate,India,7.1,WhatsApp,Yes,5.7,5.0
+540,22,Male,Graduate,Canada,4.5,TikTok,Yes,7.7,7.0
+541,19,Female,Undergraduate,Brazil,5.8,WhatsApp,Yes,6.7,6.0
+542,21,Male,Graduate,China,4.1,WeChat,No,8.2,7.0
+543,20,Female,Undergraduate,Netherlands,3.4,Instagram,No,8.6,8.0
+544,22,Male,Graduate,New Zealand,4.3,Instagram,Yes,7.9,7.0
+545,19,Female,Undergraduate,Singapore,5.5,TikTok,Yes,6.6,6.0
+546,21,Male,Graduate,Malaysia,5.9,WhatsApp,Yes,6.4,6.0
+547,20,Female,Undergraduate,UAE,6.9,Instagram,Yes,6.1,5.0
+548,22,Male,Graduate,Poland,3.8,Facebook,No,8.3,7.0
+549,19,Female,Undergraduate,India,7.2,WhatsApp,Yes,5.6,5.0
+550,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7.0
+551,20,Female,Undergraduate,Brazil,5.7,TikTok,Yes,6.8,6.0
+552,22,Male,Graduate,China,4.0,WeChat,No,8.3,7.0
+553,19,Female,Undergraduate,Netherlands,3.3,Instagram,No,8.7,8.0
+554,21,Male,Graduate,New Zealand,4.2,Facebook,Yes,8.0,7.0
+555,20,Female,Undergraduate,Singapore,5.6,TikTok,Yes,6.5,6.0
+556,22,Male,Graduate,Malaysia,6.0,WhatsApp,Yes,6.3,6.0
+557,19,Female,Undergraduate,UAE,7.0,Instagram,Yes,6.0,5.0
+558,21,Male,Graduate,Poland,3.7,Facebook,No,8.4,7.0
+559,20,Female,Undergraduate,India,7.3,WhatsApp,Yes,5.5,5.0
+560,22,Male,Graduate,Canada,4.3,TikTok,Yes,7.9,7.0
+561,19,Female,Undergraduate,Brazil,5.6,WhatsApp,Yes,6.9,6.0
+562,21,Male,Graduate,China,3.9,WeChat,No,8.4,7.0
+563,20,Female,Undergraduate,Netherlands,3.2,Instagram,No,8.8,8.0
+564,22,Male,Graduate,New Zealand,4.1,Instagram,Yes,8.1,7.0
+565,19,Female,Undergraduate,Singapore,5.7,TikTok,Yes,6.4,6.0
+566,21,Male,Graduate,Malaysia,6.1,WhatsApp,Yes,6.2,6.0
+567,20,Female,Undergraduate,UAE,7.1,Instagram,Yes,5.9,5.0
+568,22,Male,Graduate,Poland,3.6,Facebook,No,8.5,7.0
+569,19,Female,Undergraduate,India,7.4,WhatsApp,Yes,5.4,5.0
+570,21,Male,Graduate,Canada,4.2,Instagram,Yes,8.0,7.0
+571,20,Female,Undergraduate,Spain,6.1,Instagram,Yes,7.2,5.0
+572,23,Male,Graduate,Denmark,3.8,Twitter,No,7.8,8.0
+573,19,Female,Undergraduate,Ireland,5.5,TikTok,Yes,6.8,6.0
+574,22,Male,Graduate,India,7.2,Facebook,Yes,5.9,4.0
+575,21,Female,Undergraduate,Switzerland,4.2,Instagram,No,7.5,7.0
+576,24,Male,Graduate,Turkey,6.8,TikTok,Yes,6.2,5.0
+577,20,Female,Undergraduate,USA,5.9,Instagram,Yes,6.7,6.0
+578,22,Male,Graduate,Mexico,6.5,Facebook,Yes,6.1,5.0
+579,19,Female,Undergraduate,France,4.7,Twitter,No,7.4,7.0
+580,23,Male,Graduate,Canada,5.2,Instagram,Yes,7.0,6.0
+581,21,Female,Undergraduate,UK,6.3,TikTok,Yes,6.4,5.0
+582,24,Male,Graduate,Italy,4.9,Facebook,No,7.3,7.0
+583,20,Female,Undergraduate,Russia,6.7,Instagram,Yes,6.0,5.0
+584,22,Male,Graduate,China,5.8,WeChat,Yes,6.5,6.0
+585,19,Female,Undergraduate,Japan,4.5,Twitter,No,7.6,8.0
+586,23,Male,Graduate,Poland,6.4,Facebook,Yes,6.3,5.0
+587,21,Female,Undergraduate,Finland,4.1,Instagram,No,7.7,7.0
+588,24,Male,Graduate,Spain,6.6,TikTok,Yes,6.2,5.0
+589,20,Female,Undergraduate,Denmark,4.4,Instagram,No,7.4,7.0
+590,22,Male,Graduate,Ireland,5.7,Twitter,Yes,6.8,6.0
+591,19,Female,Undergraduate,India,7.0,Instagram,Yes,5.8,4.0
+592,23,Male,Graduate,Switzerland,4.3,Facebook,No,7.5,7.0
+593,21,Female,Undergraduate,Turkey,6.9,TikTok,Yes,6.1,5.0
+594,24,Male,Graduate,USA,5.6,Instagram,Yes,6.9,6.0
+595,20,Female,Undergraduate,Mexico,6.2,Facebook,Yes,6.3,5.0
+596,21,Male,Undergraduate,France,5.8,Instagram,Yes,6.7,6.0
+597,23,Female,Graduate,Canada,4.9,TikTok,No,7.3,7.0
+598,20,Male,Undergraduate,UK,6.4,Facebook,Yes,6.2,5.0
+599,22,Female,Graduate,Italy,5.1,Twitter,No,7.1,7.0
+600,19,Male,Undergraduate,Russia,6.7,Instagram,Yes,6.0,4.0
+601,24,Female,Graduate,China,5.5,WeChat,Yes,6.8,6.0
+602,21,Male,Undergraduate,Japan,4.3,Twitter,No,7.6,8.0
+603,23,Female,Graduate,Poland,6.2,Instagram,Yes,6.4,5.0
+604,20,Male,Undergraduate,Finland,4.5,Facebook,No,7.4,7.0
+605,22,Female,Graduate,Spain,6.3,TikTok,Yes,6.3,5.0
+606,19,Male,Undergraduate,Denmark,4.7,Instagram,No,7.2,7.0
+607,24,Female,Graduate,Ireland,5.9,Twitter,Yes,6.6,6.0
+608,21,Male,Undergraduate,India,7.1,Facebook,Yes,5.7,4.0
+609,23,Female,Graduate,Switzerland,4.4,Instagram,No,7.4,7.0
+610,20,Male,Undergraduate,Turkey,6.6,TikTok,Yes,6.2,5.0
+611,22,Female,Graduate,USA,5.4,Instagram,Yes,6.9,6.0
+612,19,Male,Undergraduate,Mexico,6.5,Facebook,Yes,6.1,5.0
+613,24,Female,Graduate,France,4.8,Twitter,No,7.3,7.0
+614,21,Male,Undergraduate,Canada,5.7,Instagram,Yes,6.7,6.0
+615,23,Female,Graduate,UK,6.1,TikTok,Yes,6.4,5.0
+616,20,Male,Undergraduate,Italy,4.6,Facebook,No,7.2,7.0
+617,22,Female,Graduate,Russia,6.8,Instagram,Yes,5.9,4.0
+618,19,Male,Undergraduate,China,5.6,WeChat,Yes,6.8,6.0
+619,24,Female,Graduate,Japan,4.2,Twitter,No,7.5,8.0
+620,21,Male,Undergraduate,Poland,6.3,TikTok,Yes,6.3,5.0
+621,23,Female,Graduate,Finland,4.4,Instagram,No,7.4,7.0
+622,20,Male,Undergraduate,Spain,6.5,Facebook,Yes,6.2,5.0
+623,22,Female,Graduate,Denmark,4.6,Twitter,No,7.3,7.0
+624,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6.0
+625,24,Female,Graduate,India,7.0,TikTok,Yes,5.8,4.0
+626,21,Male,Undergraduate,Switzerland,4.5,Facebook,No,7.3,7.0
+627,23,Female,Graduate,Turkey,6.7,Instagram,Yes,6.1,5.0
+628,20,Male,Undergraduate,USA,5.5,Twitter,Yes,6.8,6.0
+629,22,Female,Graduate,Mexico,6.4,Facebook,Yes,6.2,5.0
+630,19,Male,Undergraduate,France,4.7,Instagram,No,7.2,7.0
+631,24,Female,Graduate,Canada,5.6,TikTok,Yes,6.7,6.0
+632,21,Male,Undergraduate,UK,6.2,Facebook,Yes,6.3,5.0
+633,23,Female,Graduate,Italy,4.8,Twitter,No,7.1,7.0
+634,20,Male,Undergraduate,Russia,6.9,Instagram,Yes,5.9,4.0
+635,22,Female,Graduate,China,5.7,WeChat,Yes,6.7,6.0
+636,19,Male,Undergraduate,Japan,4.4,Twitter,No,7.4,8.0
+637,24,Female,Graduate,Poland,6.1,TikTok,Yes,6.4,5.0
+638,21,Male,Undergraduate,Finland,4.3,Instagram,No,7.5,7.0
+639,23,Female,Graduate,Spain,6.4,Facebook,Yes,6.2,5.0
+640,20,Male,Undergraduate,Denmark,4.5,Twitter,No,7.3,7.0
+641,22,Female,Graduate,Ireland,5.9,Instagram,Yes,6.5,6.0
+642,19,Male,Undergraduate,India,7.2,TikTok,Yes,5.7,4.0
+643,24,Female,Graduate,Switzerland,4.6,Facebook,No,7.2,7.0
+644,21,Male,Undergraduate,Turkey,6.8,Instagram,Yes,6.0,5.0
+645,23,Female,Graduate,USA,5.3,Twitter,Yes,6.8,6.0
+646,22,Male,Graduate,Mexico,6.3,Facebook,Yes,6.2,5.0
+647,20,Female,Undergraduate,France,4.8,Instagram,No,7.1,7.0
+648,23,Male,Graduate,Canada,5.7,TikTok,Yes,6.6,6.0
+649,21,Female,Undergraduate,UK,6.2,Twitter,Yes,6.3,5.0
+650,24,Male,Graduate,Italy,4.7,Facebook,No,7.2,7.0
+651,19,Female,Undergraduate,Russia,6.8,Instagram,Yes,5.9,4.0
+652,22,Male,Graduate,China,5.6,WeChat,Yes,6.7,6.0
+653,20,Female,Undergraduate,Japan,4.3,Twitter,No,7.5,8.0
+654,23,Male,Graduate,Poland,6.2,TikTok,Yes,6.3,5.0
+655,21,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7.0
+656,24,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5.0
+657,19,Female,Undergraduate,Denmark,4.6,Twitter,No,7.3,7.0
+658,22,Male,Graduate,Ireland,5.8,Instagram,Yes,6.6,6.0
+659,20,Female,Undergraduate,India,7.1,TikTok,Yes,5.8,4.0
+660,23,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7.0
+661,21,Female,Undergraduate,Turkey,6.7,Instagram,Yes,6.0,5.0
+662,24,Male,Graduate,USA,5.4,Twitter,Yes,6.8,6.0
+663,19,Female,Undergraduate,Mexico,6.4,TikTok,Yes,6.2,5.0
+664,22,Male,Graduate,France,4.7,Facebook,No,7.2,7.0
+665,20,Female,Undergraduate,Canada,5.6,Instagram,Yes,6.7,6.0
+666,23,Male,Graduate,UK,6.3,Twitter,Yes,6.2,5.0
+667,21,Female,Undergraduate,Italy,4.8,TikTok,No,7.1,7.0
+668,24,Male,Graduate,Russia,6.9,Instagram,Yes,5.9,4.0
+669,19,Female,Undergraduate,China,5.7,WeChat,Yes,6.7,6.0
+670,22,Male,Graduate,Japan,4.4,Twitter,No,7.4,8.0
+671,20,Female,Undergraduate,Poland,6.1,Facebook,Yes,6.4,5.0
+672,23,Male,Graduate,Finland,4.3,Instagram,No,7.5,7.0
+673,21,Female,Undergraduate,Spain,6.4,TikTok,Yes,6.2,5.0
+674,24,Male,Graduate,Denmark,4.5,Twitter,No,7.3,7.0
+675,19,Female,Undergraduate,Ireland,5.9,Instagram,Yes,6.5,6.0
+676,22,Male,Graduate,India,7.2,Facebook,Yes,5.7,4.0
+677,20,Female,Undergraduate,Switzerland,4.6,TikTok,No,7.2,7.0
+678,23,Male,Graduate,Turkey,6.8,Instagram,Yes,6.0,5.0
+679,21,Female,Undergraduate,USA,5.3,Twitter,Yes,6.8,6.0
+680,24,Male,Graduate,Mexico,6.2,Facebook,Yes,6.3,5.0
+681,19,Female,Undergraduate,France,4.7,Instagram,No,7.2,7.0
+682,22,Male,Graduate,Canada,5.8,TikTok,Yes,6.6,6.0
+683,20,Female,Undergraduate,UK,6.1,Twitter,Yes,6.4,5.0
+684,23,Male,Graduate,Italy,4.8,Facebook,No,7.1,7.0
+685,21,Female,Undergraduate,Russia,6.7,Instagram,Yes,6.0,4.0
+686,24,Male,Graduate,China,5.5,WeChat,Yes,6.8,6.0
+687,19,Female,Undergraduate,Japan,4.2,Twitter,No,7.5,8.0
+688,22,Male,Graduate,Poland,6.3,TikTok,Yes,6.2,5.0
+689,20,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7.0
+690,23,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5.0
+691,21,Female,Undergraduate,Denmark,4.6,Twitter,No,7.3,7.0
+692,24,Male,Graduate,Ireland,5.9,Instagram,Yes,6.5,6.0
+693,19,Female,Undergraduate,India,7.0,TikTok,Yes,5.8,4.0
+694,22,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7.0
+695,20,Female,Undergraduate,Turkey,6.6,Instagram,Yes,6.1,5.0
+696,23,Male,Graduate,USA,5.5,Twitter,Yes,6.7,6.0
+697,21,Female,Undergraduate,Mexico,6.3,TikTok,Yes,6.2,5.0
+698,24,Male,Graduate,France,4.8,Facebook,No,7.1,7.0
+699,19,Female,Undergraduate,Canada,5.7,Instagram,Yes,6.6,6.0
+700,22,Male,Graduate,UK,6.2,Twitter,Yes,6.3,5.0
+701,20,Female,Undergraduate,Italy,4.7,TikTok,No,7.2,7.0
+702,23,Male,Graduate,Russia,6.8,Instagram,Yes,5.9,4.0
+703,21,Female,Undergraduate,China,5.6,WeChat,Yes,6.7,6.0
+704,24,Male,Graduate,Japan,4.3,Twitter,No,7.5,8.0
+705,19,Female,Undergraduate,Poland,6.2,Facebook,Yes,6.3,5.0

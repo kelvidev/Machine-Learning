@@ -4,12 +4,14 @@ import numpy as np
 
 class Normalizer:
 
-    def __init__(self, dataset=None, separator = ";", decimal = ".") -> None:
+    def __init__(self, dataset=None, separator = ";", decimal = ".", ordinalData:list[map] = None) -> None:
         self.dataset = dataset
         self.dataframe = None
         self.encoder = OneHotEncoder(sparse_output=False)
         self.scaler = MinMaxScaler()
-        self.categorical_cols = None
+        self.categorical_cols_normalized = None
+        self.categorical_cols_nonnormalized= None
+        self.ordinalData = ordinalData
         self.numeric_cols = None
         self.textual_cols = None
         self.separator = separator
@@ -42,6 +44,7 @@ class Normalizer:
         self.dataframe = df
 
         categorical_cols = self.findCategoricalData(df)
+        self.categorical_cols_nonnormalized = categorical_cols
         textual_cols = self.findTextualData(df)
         numeric_cols = [col for col in df.columns if col not in categorical_cols and col not in textual_cols]
         for item in categorical_cols:
@@ -54,7 +57,7 @@ class Normalizer:
             columns= self.encoder.get_feature_names_out(categorical_cols),
             index= df.index
         )
-        self.categorical_cols = [col for col in categorical_df.columns]
+        self.categorical_cols_normalized = [col for col in categorical_df.columns]
         
         numeric_nd_array = self.scaler.fit_transform(df[numeric_cols])
         numeric_df = pd.DataFrame(
@@ -77,8 +80,8 @@ class Normalizer:
             
         dataframe_parts = []
         
-        if(self.categorical_cols):
-            decoded_categorical_nd_array = self.encoder.inverse_transform(dataframe[self.categorical_cols])
+        if(self.categorical_cols_normalized):
+            decoded_categorical_nd_array = self.encoder.inverse_transform(dataframe[self.categorical_cols_normalized])
             decoded_categorical_df = pd.DataFrame(decoded_categorical_nd_array, columns= self.encoder.feature_names_in_)
             dataframe_parts.append(decoded_categorical_df)
                     
@@ -103,7 +106,7 @@ class Normalizer:
             categorical_nd_array = self.encoder.transform(instance[categorical_cols])
             categorical_df = pd.DataFrame(
                 categorical_nd_array, 
-                columns=self.categorical_cols,
+                columns=self.categorical_cols_normalized,
                 index= instance.index
             )
             
@@ -120,4 +123,4 @@ class Normalizer:
             return "that value could not be normalized"
         
     def getTrainableDataFrame(self)-> pd.DataFrame:
-        return self.dataframe[self.categorical_cols + self.numeric_cols]
+        return self.dataframe[self.categorical_cols_normalized + self.numeric_cols]

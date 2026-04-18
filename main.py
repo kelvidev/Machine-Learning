@@ -13,15 +13,18 @@ def testNormalizer():
 
     
 def testClustering():
+    
+    
+    
     iris_clusterer = Clusterer()
     iris_clusterer.findClusters("data/iris.csv")
     flower = IrisFlower.from_json(
         {
-            "sepal_length": 4.8,
+            "sepal_length":6.1,
             "sepal_width": 3.0,
-            "petal_length": 1.7,
-            "petal_width":0.2,
-            "class": "Iris-setosa",
+            "petal_length": 4.6,
+            "petal_width":1.4,
+            "class": "Iris-versicolor",
         }
     )
     print(iris_clusterer.classifyInstance(flower.to_dataframe()))
@@ -38,7 +41,7 @@ def testClustering():
     
 
 def main():
-    testNormalizer()
+    # testNormalizer()
     testClustering()
     
     
