@@ -40,7 +40,7 @@ def main():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1)
     
     no_indices = np.where(y_train == 'no')[0]
-    keep_no = np.random.choice(no_indices, size=int(len(no_indices) * 0.3), replace=False)
+    keep_no = np.random.choice(no_indices, size=int(len(no_indices) * 0.4), replace=False)
 
     yes_indices = np.where(y_train == 'yes')[0]
     keep_indices = np.sort(np.concatenate([keep_no, yes_indices]))

@@ -15,7 +15,7 @@ def elbow_detection(inertias) -> int:
     plt.title("players dataset inertias by n° of clusters")
     plt.xlabel("(k) n° of clustera")
     plt.ylabel("inertia")
-    plt.savefig("clustering/elbow/players-elbow.png")
+    plt.savefig("modules/clustering/elbow/players-elbow.png")
     
     return cluster
 
